@@ -20,6 +20,12 @@ Lunation Design is a full on responsive website that wants to spread the word of
    ### Existing Features
 
 - __Navigation Bar__
+![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./images/READMEimages/Navigation.PNG) 
+![Image of navigation and header for phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact.](./images/READMEimages/Navigation_Phone.PNG)
+
+   - It is featured on all three pages on the website, the navigation bar is full responsive and it includes Lunation Design logo on the left side, links to the Home page, Stickers page, and Contact page and it is identical on each of the three pages to allow the user easy navigation.
+   - The navigation bar allows the user to easily navigate between the pages on the site, across the different devices.
+   - If the screen size is 748px or smaller the logo on the left side is not visible.
 
 - __The Landing Page__
 
