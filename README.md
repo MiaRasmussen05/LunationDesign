@@ -45,6 +45,10 @@ Lunation Design is a full on responsive website that wants to spread the word of
       - The boxes are responsive. On bigger screens the first two boxes are beside each other and the last one is under them and centered. While on smaller screens the three boxes is centered and under each other.
 
 - __Footer__
+![Image of the footer with the three Font Awesome icons for the social links](./images/READMEimages/Footer.PNG) 
+   - It is featured on all three pages on the website just like the navigiation bar, the footer includes the links to the social media that is relevant for this website. All the links opens up on new tabs for the visiters, for easy navigation, and there for no using the "back" button.
+   - The main color is #3B3B3B (Dead Pixel/dark grey), with the icons having the color of #FAC1AB (Yahoo/light skin color) and on hover the color of #426E50 (Fairway/green).
+   - It is important because the creater wants to reach out to more people, and through the social media links the creater can do that.
 
 - __The Stickers Page__
 
