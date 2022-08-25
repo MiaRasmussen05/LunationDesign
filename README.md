@@ -28,8 +28,10 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - If the screen size is 748px or smaller the logo on the left side is not visible.
 
 - __The Landing Page__
-
    - __Image And Quote__
+![Image of the first part of the landing page. With the Hero image with a dark overlay taht shows - A pile of stickers from the sticker page, on a table, with the sticker of a digital drawing of a girl in a red shirt with black skirt and brown boots, long brown hair and blue eyes, holding a huge yellow pensel. With text in the middle of the image the slogan at the top and some text under it.](./images/READMEimages/First_half_of_Landing_page.PNG)
+      - The first half of landing page on all screens includes an image that goes across the top of the screen with a dark overlay and text in the middle, the slogan at the top and some text under it.  
+      - The image as well as the text introduces the website of Lunation Design with its slogan and its purpose, it is the first thing the visiter see.  
 
    - __About__
 
