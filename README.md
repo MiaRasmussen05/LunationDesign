@@ -34,6 +34,15 @@ Lunation Design is a full on responsive website that wants to spread the word of
       - The image as well as the text introduces the website of Lunation Design with its slogan and its purpose, it is the first thing the visiter see.  
 
    - __About__
+   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./images/READMEimages/Second_half_of_Landing_page_biggerScreen.PNG) 
+   ![Image of second part of the landing page - the about section - for the smaller screen sizes](./images/READMEimages/Second_half_of_Landing_page_smallerScreen.PNG)
+      - The bottom of the Landing page includes the about section. In this the visiter on the site get to know a little about the creater behind the stickers.
+      - It has the header - About Us - in a box #FAC1AB (Yahoo/light skin color), with a #426E50 (Fairway/green) colored box behind it.
+      - It also have three boxes under it that gives the visiter a bit of information on the creater.
+         - Who they are and there passion for what they do.
+         - How Lunation Design first came to be.
+         - What Lunation Design can do for the visiter of the website.
+      - The boxes are responsive. On bigger screens the first two boxes are beside each other and the last one is under them and centered. While on smaller screens the three boxes is centered and under each other.
 
 - __Footer__
 
