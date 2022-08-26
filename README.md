@@ -88,6 +88,10 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    ### Future Features
 
+   - A future feature could be adding a FAQ page. That way the most asked question could be answered allready on the site instead of the creater having to respond back to multiple people with the same answer.
+   - Adding a 5 star rewiew of the stickers, or like button with a heart.
+   - Another future feature could be adding a log in for visiters that comes back that have favorite stickers they want to keep. So when logged in you have a library with your favorite stickers.
+
 ## Typography and Color Scheme
 
 - __Typography__
