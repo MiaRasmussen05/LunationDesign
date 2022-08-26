@@ -140,7 +140,19 @@ __The Bottom Of Thank You Page Wireframe__
 
    __Technologies Used__
 
+   - HTML
+   - CSS
+   - JavaScript
+
    __Programs Used__
+
+   - Git - Git was used for using the Gitpod terminal to commit to Git and push to Github.
+   - Github - Github was used to store the project code and display the project in Github Pages. (https://github.com/)
+   - Balsamiq - Balsamiq app was used to create the wireframes.
+   - Comoressor - Compressor was used for compressing images to a smaller size. (https://compressor.io/)
+   - Imgur - Imgur was used to store the images used for the wireframes. (https://imgur.com/)
+   - Coolors - Coolors was used for creating a palent of the colors used. (https://coolors.co/)
+   - Am I Responsive? - Am I Responsive was used for having an image of the website on all sizes. (https://ui.dev/amiresponsive?)
 
 ## Testing
 
