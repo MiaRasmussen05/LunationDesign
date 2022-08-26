@@ -64,6 +64,14 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - A header and information box that well inform the visiter of the things they need to know on this page, at the top of the page.
 
 - __The Contact Page__
+![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./images/READMEimages/Contact_page.PNG) 
+![Image of the contact page on smaller screens. With the header at the top taht says "Contact Us" under it is the information box and then under that is the form.](./images/READMEimages/Contact_page_smallerScreens.PNG) 
+   - With this page the visiters will be able to contact the creater, with any inquiries they have.
+   - They can write a comment to the creater about if they want there own sticker made, changed one of the already existing stickers, just send a message, or something different. Therefor the visiter will be asked to submit there first and last name, email, and what it is about.
+   - There is also a information box about the different options of messeges there is for the visiters.
+   - The page is responsive for all sizes. The header is at the top, form and information box starts beside each other on bigger screens and then the form moves under the information box under smaller screens.
+   - All boxes and radio buttons are required to be filled for it to be send.
+   - The send button works, and send the visiter to the thank you page.
 
    ### Future Features
 
