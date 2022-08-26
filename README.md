@@ -95,8 +95,13 @@ Lunation Design is a full on responsive website that wants to spread the word of
 ## Typography and Color Scheme
 
 - __Typography__
+   - The logo text as well as headers uses the font of 'Cormorant SC' with a secondary of sans-serif.
+   - With a matching font for anything there is not a header is 'Nunito' and secondary of sans-serif.
 
 - __Color Scheme__
+![Image of the color scheme, pallet made on https://coolors.co/](./images/READMEimages/Colors.PNG)
+   - For the colors of the site there will be used two main colors of #426E50 (Fairway/green) and #FAC1AB (Yahoo/light skin color), with the shades of #fff (white) and #000 (black), #3B3B3B (Dead Pixel/dark grey) and #FCECE4 (Vanilla Blush/very light skin color).
+   - Two very inviting matching main colors that dosn't take away from the stickers bright color schemes.
 
 ## Wireframes
 
