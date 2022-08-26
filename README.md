@@ -51,6 +51,11 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - It is important because the creater wants to reach out to more people, and through the social media links the creater can do that.
 
 - __The Stickers Page__
+![Image of the top of the stickers page on bigger screens. The header that says "Stickers Library" in the center, with a box to the right that has some information for the visiter.](./images/READMEimages/The_head_of_stickers_page.PNG)
+![Image of the top of the stickers page on smaller screens. The header that says "Stickers Library" in the center, with a box under it that has some information for the visiter.](./images/READMEimages/The_head_of_stickers_page_smallerScreens.PNG)
+![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./images/READMEimages/Sticker_boxes_biggerScreens.PNG)
+![Image of the stickers boxes on the stickers page on medium screens. With two boxes beside each other, there can be seen the two top boxes from the stickers page - Excited Puppy and The Rosie Way.](./images/READMEimages/Sticker_boxes_mediumScreens.PNG)
+![Image of the stickers boxes on the stickers page on smaller screens. There can be seen the top one box from the stickers page - Excited Puppy.](./images/READMEimages/Sticker_boxes_smallerScreens.PNG)
 
 - __The Contact Page__
 
