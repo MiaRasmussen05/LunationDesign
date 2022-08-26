@@ -127,6 +127,15 @@ __The Contact Page Wireframe__
 ![The Contact Page Desktop Wireframe](https://imgur.com/R2Zdpa3.png)
 ![The Contact Page Ipad Wireframe](https://imgur.com/5A15jul.png)
 
+__The Top Of Thank You Page Wireframe__
+
+![The Top Of The Thank You Page Wireframe](https://imgur.com/PEKh5r1.png)
+
+__The Bottom Of Thank You Page Wireframe__
+
+![The Bottom Of The Thank You Page Wireframe](https://imgur.com/gxWFkKR.png)
+![The Bottom Of The Thank You Page Ipad Wireframe](https://imgur.com/P6izga7.png)
+
 ## Technology
 
    __Technologies Used__
