@@ -118,7 +118,14 @@ __The Bottom Of Landing About Page Wireframe__
 
 __The Stickers Page Wireframe__
 
+![The Stickers Page Desktop Wireframe](https://imgur.com/ocHiWtB.png)
+![The Stickers Page Ipad Wireframe](https://imgur.com/Juiqsi6.png)
+![The Stickers Page Iphone Wireframe](https://imgur.com/sXYMhjU.png)
+
 __The Contact Page Wireframe__
+
+![The Contact Page Desktop Wireframe](https://imgur.com/R2Zdpa3.png)
+![The Contact Page Ipad Wireframe](https://imgur.com/5A15jul.png)
 
 ## Technology
 
