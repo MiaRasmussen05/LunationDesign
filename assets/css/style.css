@@ -192,3 +192,22 @@ main {
     font-weight: 600;
     padding-bottom: 3%;
 }
+
+/* About boxes */
+
+.about-creator, .about-why {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.about-creator, .about-why, .what-happens { 
+    width: 43%;
+    position: relative;
+    text-align: center;
+    font-size: 110%;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px;
+    padding: 2%;
+} 
