@@ -140,3 +140,40 @@ main {
     width: 100%;
     margin: -15% 0 0 0;
 } 
+
+/* About header logo */
+
+.fancy-logo {
+    width: 80%;
+    text-align: center;
+    margin-inline-start: auto;
+}
+
+.color-border { 
+    width: 30%; 
+    height: 75px; 
+    position: relative;
+    background-color: #426E50;  
+    border-radius: 10px;  
+    box-shadow: 5px 5px 5px #000;
+    margin: 0 0 0 30%; 
+} 
+
+.second-logo { 
+    width: 30%; 
+    height: 75px;
+    position: relative;
+    text-align: center;  
+    font-family: "Cormorant SC", sans-serif;  
+    font-size: 180%;
+    line-height: 240%; 
+    background-color: #fac1ab;
+    border-radius: 10px;  
+    box-shadow: 5px 5px 5px #000;
+    margin: -40px 0 0 20%; 
+} 
+
+.second-logo h2 {
+    font-family: "Cormorant SC", sans-serif; 
+    font-weight: 600; 
+}
