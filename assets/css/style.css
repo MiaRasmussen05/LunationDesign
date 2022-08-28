@@ -497,3 +497,17 @@ textarea {
     font-size: 300%;
     color: #000;
 }
+
+/* The End Of Thank You Page The Response */
+
+.response-wrapper {
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+/* Image character */
+
+.Chibi-character {
+    width: 20%;
+    margin: 0 auto;
+}
