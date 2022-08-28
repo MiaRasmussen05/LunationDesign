@@ -65,3 +65,12 @@ nav a:hover {
     margin: 1% 0 0 3%; 
     z-index: 7; 
 } 
+
+/* main */  
+
+main { 
+    object-fit: cover;
+    background-color: #fcece4;
+    background: url(../images/webpimages/Background.webp) repeat center center;
+    background-size: cover;
+}  
