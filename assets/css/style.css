@@ -436,3 +436,20 @@ form {
     padding: 0 3%;
    margin: 2%;
 }
+
+/* Form radio buttons */
+
+.radio-wrapper {
+    width: 100%;
+    text-align: center;
+    padding: 5% 0;
+}
+
+.radio {
+    display: inline-block;
+    margin: 0 0 0 0;
+}
+
+.custom, .new, .comment, .other {
+    margin-left: 2%;
+}
