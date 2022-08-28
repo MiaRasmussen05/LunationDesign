@@ -621,10 +621,36 @@ textarea {
         font-size: 100%;
         margin-right: 2%;
     }
-    
+
     .head-line {
         font-size: 140%;
         margin: 0 15%;
+    }
+
+    /* Sticker boxes */
+
+    .sticker {
+        width: 45%;
+        height: 770px;
+        font-size: 120%;
+        margin: 1% 0 1.5% 3%;
+    }
+
+    /* Text information in sticker boxes */
+
+    .head-liner {
+        font-size: 130%;
+    }
+
+    .information {
+        width: 90%;
+        font-size: 90%;
+    }
+
+    /* Sticker box button */
+
+    button {
+        font-size: 70%;
     }
 
 }
