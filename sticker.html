@@ -158,6 +158,20 @@
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/bc2311dd0c.js" crossorigin="anonymous"></script>
 
+    <!-- Written mostly by Tutor Assistance Sean -->
+    <script>
+        window.addEventListener('scroll', (event) => {
+            const header = document.querySelector("header");
+            console.log(window.scrollY)
+            if (window.scrollY > 400) {
+                header.style.position = 'sticky'
+                header.style.top = 0;
+                header.style.zIndex = 10;
+            }
+            else header.style.position = 'static'
+        });
+        </script>
+
 </body>
 
 </html>
