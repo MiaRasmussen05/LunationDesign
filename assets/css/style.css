@@ -549,3 +549,34 @@ textarea {
 .more-questions {
     margin: 2% auto;
 }
+
+/* Media Query */
+
+/* For larger screen sizes from 1280px wide and down */
+
+@media screen and (max-width: 1280px) {
+
+    /* Header */ 
+     
+    .color-line { 
+        height: 15px; 
+    }
+
+    .logo {
+        margin-top: 0.8%; 
+    } 
+
+    /* Quote and line */ 
+    
+    .quote { 
+        font-size: 300%;  
+        margin-left: 25%; 
+    } 
+    
+    .line { 
+        width: 60%;  
+        font-size: 120%;
+        margin-left: 16%;  
+   } 
+
+}
