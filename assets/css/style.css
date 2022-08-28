@@ -533,3 +533,19 @@ textarea {
     font-weight: 600;
     padding-bottom: 2%;
 }
+
+.response span {
+    font-weight: 600;
+}
+
+.no-response {
+    float: left;
+}
+
+.response-time {
+    float: right;
+}
+
+.more-questions {
+    margin: 2% auto;
+}
