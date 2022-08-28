@@ -689,3 +689,14 @@ textarea {
     }
 
 }
+
+/* For medium screen sizes from 992px wide and down */
+
+@media screen and (max-width: 992px) {
+
+    /* Header */
+
+    .logo-text {
+        font-size: 220%;
+    }
+}
