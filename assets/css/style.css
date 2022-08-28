@@ -211,3 +211,20 @@ main {
     box-shadow: 1px 1px 5px;
     padding: 2%;
 } 
+
+.about-creator { 
+    margin: 5% 0 0 3.5%; 
+} 
+
+.about-why { 
+    margin: 5% 0 0 2%; 
+} 
+
+.what-happens {
+    margin: 5% 0 5% 28%; 
+}
+
+.about-why a, .what-happens a {  
+    text-decoration: none;  
+    font-weight: 600;  
+}  
