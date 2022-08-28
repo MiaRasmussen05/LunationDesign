@@ -73,4 +73,29 @@ main {
     background-color: #fcece4;
     background: url(../images/webpimages/Background.webp) repeat center center;
     background-size: cover;
+}
+
+/*Top of Home Page */
+
+/* Hero img */
+
+.img-quote { 
+    display: flex; 
+} 
+
+.img-container {
+    width: 100%;
+}
+
+.dark-overlay { 
+    width: 100%;
+    height: 60%; 
+    background: #2c2c2c; 
+    overflow: hidden;
+}
+
+.hero-img {  
+    width: 100%; 
+    opacity: 0.3; 
+    margin-top: -15%;
 }  
