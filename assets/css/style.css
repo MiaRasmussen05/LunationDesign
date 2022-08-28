@@ -238,3 +238,25 @@ footer {
     left: 0;
     bottom: 0;
 } 
+
+/* social links */
+
+.social-links {  
+    text-align: center;
+    margin-right: 10%;
+}  
+
+.social-links li {  
+    display: inline;  
+    padding-left: 14%;
+}  
+
+.social-links i { 
+    font-size: 200%;
+    color: #FAC1AB;
+    padding-top: 14px;
+} 
+
+.social-links i:hover{  
+    color: #426E50;  
+}  
