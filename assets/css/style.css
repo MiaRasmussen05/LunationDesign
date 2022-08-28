@@ -18,5 +18,16 @@
 
 .centerline {
     width: 100%;
+    text-align: center;
     background-color: #fff;
 }
+
+.logo-text { 
+    display: inline-block;
+    font-family: "Cormorant SC", sans-serif;  
+    font-size: 240%;  
+}  
+
+header a {  
+    text-decoration: none;  
+}  
