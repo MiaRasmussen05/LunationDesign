@@ -46,3 +46,12 @@ nav {
 nav a {  
     padding: 0 2%;  
 }
+
+nav a:hover {  
+    border-bottom: 4px solid #426E50;  
+    color: #000;  
+}  
+
+.active {  
+    border-bottom: 4px solid #426E50;  
+}  
