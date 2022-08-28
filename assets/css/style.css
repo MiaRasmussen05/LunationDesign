@@ -98,4 +98,24 @@ main {
     width: 100%; 
     opacity: 0.3; 
     margin-top: -15%;
-}  
+}
+
+/* Quote and line */ 
+
+.quote-wrapper { 
+    max-width: 90%; 
+    margin: 0 0 0 0; 
+} 
+
+.quote { 
+    width: 50%;  
+     position: absolute; 
+     top: 100px; 
+     font-family: "Cormorant SC", sans-serif;  
+     font-size: 450%;  
+     font-weight: 600;  
+     color: #fff; 
+     text-align: center; 
+     margin: 12% 0 0 24%;  
+     z-index: 4; 
+}
