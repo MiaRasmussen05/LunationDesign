@@ -41,6 +41,7 @@ nav {
     line-height: 250%;
     background-color: #FAC1AB;  
     box-shadow: 0 2px 4px #3B3B3B; 
+    padding-bottom: 0.7%; 
 }
 
 nav a {  
@@ -55,3 +56,12 @@ nav a:hover {
 .active {  
     border-bottom: 4px solid #426E50;  
 }  
+
+/* Logo */
+
+.logo {
+    width: 120px; 
+    position: absolute; 
+    margin: 1% 0 0 3%; 
+    z-index: 7; 
+} 
