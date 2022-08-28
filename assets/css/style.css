@@ -326,3 +326,22 @@ footer {
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
 }
+
+/* Text information in sticker boxes*/
+
+.head-liner {
+    width: 98%;
+    font-family: "Cormorant SC", sans-serif; 
+    font-size: 150%;
+    font-weight: 600;
+    text-align: center;
+    padding: 0 2% 2% 2%;
+}
+
+.information {
+    width: 90%;
+    font-size: 105%;
+    color: #000;
+    padding: 0 2% 2% 2%;
+    margin: 0 2% 2% 2%;
+}
