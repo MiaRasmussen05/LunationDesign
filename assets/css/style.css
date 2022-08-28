@@ -409,3 +409,14 @@ button a {
 .little-information li {
     padding: 2%;
 }
+
+/* Form */
+
+form {
+    width: 25%;
+    background-color: #fef7f3;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #3B3B3B;
+    padding: 1%;
+    margin: 7% 0 10% 15%;
+}
