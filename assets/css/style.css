@@ -177,3 +177,18 @@ main {
     font-family: "Cormorant SC", sans-serif; 
     font-weight: 600; 
 }
+
+/* About information */
+
+.about-information {
+    width: 97%;
+    display: inline-block;
+    margin: 0 0 0 0;
+}
+
+.about-information h3 {
+    font-family: "Cormorant SC", sans-serif;
+    font-size: 160%;
+    font-weight: 600;
+    padding-bottom: 3%;
+}
