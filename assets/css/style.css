@@ -511,3 +511,17 @@ textarea {
     width: 20%;
     margin: 0 auto;
 }
+
+/* Response boxes */
+
+.response {
+    width: 30%;
+    height: 200px;
+    border-radius: 10px;
+    backdrop-filter: blur(100px);
+    -webkit-backdrop-filter: blur(100px);
+    box-shadow: 0 0 5px #3B3B3B;
+    overflow: auto;
+    padding: 1%;
+    margin: 4%;
+}
