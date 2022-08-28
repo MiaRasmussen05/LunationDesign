@@ -372,6 +372,10 @@ button a {
 
 /* Contact page */
 
+.contact-main {
+    overflow: auto;
+}
+
 /* Headline and information box */
 
 .contactUs {
