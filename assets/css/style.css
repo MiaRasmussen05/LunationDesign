@@ -317,3 +317,12 @@ footer {
     box-shadow: 0px 0px 5px;
     margin: 1% 0 1.5% 2.5%;
 }
+
+/* Sticker images */    
+    
+.img-sticker {
+    width: 100%;
+    object-fit: cover;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
