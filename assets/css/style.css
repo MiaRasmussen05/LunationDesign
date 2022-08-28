@@ -525,3 +525,11 @@ textarea {
     padding: 1%;
     margin: 4%;
 }
+
+.response h2 {
+    text-align: center;
+    font-family: "Cormorant SC", sans-serif;
+    font-size: 230%;
+    font-weight: 600;
+    padding-bottom: 2%;
+}
