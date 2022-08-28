@@ -653,4 +653,24 @@ textarea {
         font-size: 70%;
     }
 
+    /* Contact page */
+
+    /* Information box */
+
+    .little-information {
+        width: 40%;
+        margin: 12% 5% 0 0;
+    }
+
+    .little-information h2 {
+        font-size: 260%;
+    }
+
+    /* Form */
+
+    form {
+        width: 320px;
+        margin-left: 9%;
+    }
+
 }
