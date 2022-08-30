@@ -1157,4 +1157,27 @@ textarea {
         text-align: center;
     }
 
+    /* Thank You Page */
+
+    /* Thank you note */
+
+    .thankYou {
+        padding: 25% 0 1% 0;
+    }
+
+    .thanks-text {
+        font-size: 100%;
+        padding: 0 5% 27% 5%;
+    }
+
+    .thanks-text span {
+        font-size: 250%;
+    }
+
+    /* Image character */
+
+    .Chibi-character {
+        width: 50%;
+    }
+
 }
