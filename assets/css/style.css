@@ -167,8 +167,6 @@ main {
     position: relative;
     text-align: center;
     font-family: "Cormorant SC", sans-serif;
-    font-size: 180%;
-    line-height: 240%;
     background-color: #fac1ab;
     border-radius: 10px;
     box-shadow: 5px 5px 5px #000;
@@ -178,6 +176,8 @@ main {
 .second-logo h2 {
     font-family: "Cormorant SC", sans-serif;
     font-weight: 600;
+    font-size: 180%;
+    line-height: 240%;
 }
 
 /* About information */
@@ -1031,8 +1031,8 @@ textarea {
 
     .second-logo {
         width: 45%;
-        font-size: 140%;
-        line-height: 350%;
+        font-size: 90%;
+        line-height: 320%;
         margin-left: 10%;
     }
 
