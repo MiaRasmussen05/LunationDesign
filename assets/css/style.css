@@ -833,47 +833,88 @@ textarea {
 
 }
 
-/* For small screen sizes from 748px wide and down */ 
+/* For small screen sizes from 748px wide and down */
 
-@media screen and (max-width: 748px) { 
- 
-    /* Header */ 
-     
-    .color-line { 
-        height: 10px; 
+@media screen and (max-width: 748px) {
+
+    /* Header */
+
+    .color-line {
+        height: 10px;
     }
 
-    .logo {display: none;} 
+    .logo {
+        display: none;
+    }
 
-    .logo-text { 
-        font-size: 190%;  
-    }  
-    
-    nav { 
+    .logo-text {
+        font-size: 190%;
+    }
+
+    nav {
         font-size: 110%;
-    } 
+    }
 
-    /* Hero img */  
+    /* Hero img */
 
-    .dark-overlay { 
-        height: 80%; 
-    } 
+    .dark-overlay {
+        height: 80%;
+    }
 
-    .hero-img {  
+    .hero-img {
         margin-top: -10%;
-    }  
+    }
 
-    /* Quote and line */ 
-    
-    .quote { 
-        width: 100%;  
-         font-size: 240%;  
-         margin: 11% 0 0 0; 
-     } 
-     
-     .line { 
-         width: 80%;  
-         margin-left: 8%;  
-    } 
+    /* Quote and line */
+
+    .quote {
+        width: 100%;
+        font-size: 240%;
+        margin: 11% 0 0 0;
+    }
+
+    .line {
+        width: 80%;
+        margin-left: 8%;
+    }
+
+    /* About section */
+
+    .about {
+        margin-top: 0%;
+    }
+
+    /* About header logo */
+
+    .color-border {
+        width: 40%;
+    }
+
+    .second-logo {
+        width: 40%;
+        margin-left: 15%;
+    }
+
+    /* Sticker page */
+
+    /* Sticker page and Contact page header */
+
+    .header-front {
+        font-size: 360%;
+        padding-top: 3%;
+    }
+
+    /* Sticker page information box */
+
+    .information-box {
+        width: 55%;
+        font-size: 95%;
+        margin: 1.5% 0 2% 22%;
+    }
+
+    .head-line {
+        font-size: 130%;
+        margin: 0 20%;
+    }
 
 }
