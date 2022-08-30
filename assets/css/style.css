@@ -780,4 +780,24 @@ textarea {
         height: 35px;
     }
 
+    /* Contact page */
+
+    /* Contact page information box */
+
+    .little-information {
+        width: 60%;
+        float: none;
+        margin: 3% 0 0 17%;
+    }
+
+    .little-information h2 {
+        font-size: 230%;
+    }
+
+    /* Form */
+
+    form {
+        margin: 5% 0 10% 33%;
+    }
+
 }
