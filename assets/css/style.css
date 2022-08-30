@@ -94,6 +94,7 @@ main {
     height: 60%;
     background: #2c2c2c;
     overflow: hidden;
+    transition: ease all 2s;
 }
 
 .hero-img {
