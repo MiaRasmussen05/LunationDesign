@@ -969,4 +969,18 @@ textarea {
         margin: 5% 0 10% 20%;
     }
 
+    /* Thank You Page */
+
+    /* Thank you note */
+
+    .thankYou {
+        padding: 17% 0 1% 0;
+    }
+
+    /* Image character */
+
+    .Chibi-character {
+        width: 40%;
+    }
+
 }
