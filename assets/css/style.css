@@ -1091,4 +1091,34 @@ textarea {
         text-align: center;
     }
 
+    /* Sticker boxes */
+
+    .sticker {
+        width: 90%;
+        height: 680px;
+        position: static;
+        top: 150px;
+        font-size: 110%;
+        margin: 4% 0 0 5%;
+    }
+
+    /* Text information in sticker boxes */
+
+    .head-liner {
+        font-size: 140%;
+    }
+
+    .information {
+        font-size: 90%;
+        height: 150px;
+        top: 440px;
+    }
+
+    /* Sticker box button */
+
+    button {
+        width: 30%;
+        margin-left: 35%;
+    }
+
 }
