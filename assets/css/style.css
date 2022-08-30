@@ -800,4 +800,35 @@ textarea {
         margin: 5% 0 10% 33%;
     }
 
+    /* Thank You Page */
+
+    /* Thank you note */
+
+    .thankYou {
+        padding: 14% 0 1% 0;
+    }
+
+    /* Image character */
+
+    .Chibi-character {
+        width: 30%;
+    }
+
+    /* Response boxes */
+
+    .response-wrapper {
+        width: 100%;
+        text-align: center;
+    }
+
+    .response-wrapper h2 {
+        font-size: 190%;
+    }
+
+    .response {
+        width: 90%;
+        height: 160px;
+        float: none;
+    }
+
 }
