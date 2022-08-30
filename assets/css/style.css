@@ -1121,4 +1121,28 @@ textarea {
         margin-left: 35%;
     }
 
+    /* Contact page */
+
+    /* Contact information box */
+
+    .little-information {
+        width: 80%;
+        font-size: 90%;
+        float: none;
+        margin: 3% 0 0 7%;
+    }
+
+    .little-information li {
+        list-style: none;
+        border-bottom: 1px solid #3B3B3B;
+    }
+
+    .little-information li:last-child {
+        border-bottom: none;
+    }
+
+    .little-information h2 {
+        font-size: 190%;
+    }
+
 }
