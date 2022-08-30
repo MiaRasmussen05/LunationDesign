@@ -1069,4 +1069,26 @@ textarea {
         padding-top: 8px;
     }
 
+    /* Sticker page */
+
+    /* Sticker page and Contact page header */
+
+    .header-front {
+        font-size: 280%;
+        padding-top: 3%;
+    }
+
+    /* Sticker page information box */
+
+    .information-box {
+        width: 65%;
+        font-size: 95%;
+        margin-left: 15%;
+    }
+
+    .head-line {
+        font-size: 130%;
+        text-align: center;
+    }
+
 }
