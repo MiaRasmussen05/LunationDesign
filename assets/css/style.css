@@ -1145,4 +1145,16 @@ textarea {
         font-size: 190%;
     }
 
+    /* Form */
+
+    form {
+        width: 89%;
+        margin: 9% 0 10% 5%;
+    }
+
+    .radio-wrapper {
+        font-size: 87%;
+        text-align: center;
+    }
+
 }
