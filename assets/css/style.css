@@ -706,7 +706,7 @@ textarea {
         transition: ease all 2s;
     }
 
-    /* About */
+    /* About boxes */
 
     .about-creator, .about-why, .what-happens {
         width: 86%;
@@ -723,6 +723,34 @@ textarea {
 
     .what-happens {
         margin-left: 6.5%;
+    }
+
+    /* Sticker page */
+
+     /* Sticker page and Contact page header */
+
+     .header-front {
+        font-size: 400%;
+        padding-top: 3%;
+    }
+
+    .library {
+        margin-bottom: 3%;
+    }
+
+    /* Sticker page information box */
+
+    .information-box {
+        width: 45%;
+        position: static;
+        float: none;
+    font-size: 95%;
+    margin: 0 0 2% 27%;
+    }
+    
+    .head-line {
+    font-size: 130%;
+    margin: 0 20%;
     }
 
 }
