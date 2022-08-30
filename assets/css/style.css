@@ -999,4 +999,25 @@ textarea {
         font-size: 90%;
     }
 
+    /* Hero img */
+
+    .dark-overlay {
+        height: 80%;
+        margin-top: -2%;
+        transition: none;
+    }
+
+    /* Quote and line */
+
+    .quote {
+        font-size: 160%;
+        margin-top: 8%;
+    }
+
+    .line {
+        width: 90%;
+        font-size: 100%;
+        margin-left: 4%;
+    }
+
 }
