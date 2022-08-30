@@ -832,3 +832,25 @@ textarea {
     }
 
 }
+
+/* For small screen sizes from 748px wide and down */ 
+
+@media screen and (max-width: 748px) { 
+ 
+    /* Header */ 
+     
+    .color-line { 
+        height: 10px; 
+    }
+
+    .logo {display: none;} 
+
+    .logo-text { 
+        font-size: 190%;  
+    }  
+    
+    nav { 
+        font-size: 110%;
+    } 
+
+}
