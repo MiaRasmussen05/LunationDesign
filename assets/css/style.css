@@ -944,4 +944,29 @@ textarea {
         width: 25%;
     }
 
+    /* Contact page */
+
+    /* Contact information box */
+
+    .little-information {
+        width: 80%;
+        font-size: 100%;
+        float: none;
+        margin: 3% 0 0 7%;
+    }
+
+    .little-information li {
+        list-style: none;
+    }
+
+    .little-information h2 {
+        font-size: 210%;
+    }
+
+    /* Form */
+
+    form {
+        margin: 5% 0 10% 20%;
+    }
+
 }
