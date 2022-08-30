@@ -984,3 +984,19 @@ textarea {
     }
 
 }
+
+/* For small screen sizes from 548px wide and down */
+
+@media screen and (max-width: 548px) {
+
+    /* Header */
+
+    .logo-text {
+        font-size: 180%;
+    }
+
+    nav {
+        font-size: 90%;
+    }
+
+}
