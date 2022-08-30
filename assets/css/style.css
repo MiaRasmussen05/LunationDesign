@@ -853,4 +853,27 @@ textarea {
         font-size: 110%;
     } 
 
+    /* Hero img */  
+
+    .dark-overlay { 
+        height: 80%; 
+    } 
+
+    .hero-img {  
+        margin-top: -10%;
+    }  
+
+    /* Quote and line */ 
+    
+    .quote { 
+        width: 100%;  
+         font-size: 240%;  
+         margin: 11% 0 0 0; 
+     } 
+     
+     .line { 
+         width: 80%;  
+         margin-left: 8%;  
+    } 
+
 }
