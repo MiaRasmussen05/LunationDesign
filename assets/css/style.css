@@ -1180,4 +1180,23 @@ textarea {
         width: 50%;
     }
 
+    /* The Response */
+
+    .response-wrapper {
+        width: 100%;
+        text-align: center;
+    }
+
+    .response-wrapper h2 {
+        font-size: 150%;
+    }
+
+    .response-wrapper p {
+        font-size: 90%;
+    }
+
+    .response {
+        height: 160px;
+    }
+
 }
