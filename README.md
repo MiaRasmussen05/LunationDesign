@@ -153,6 +153,7 @@ __The Bottom Of Thank You Page Wireframe__
    - Imgur - Imgur was used to store the images used for the wireframes. (https://imgur.com/)
    - Coolors - Coolors was used for creating a palent of the colors used. (https://coolors.co/)
    - Am I Responsive? - Am I Responsive was used for having an image of the website on all sizes. (https://ui.dev/amiresponsive?)
+   - BIRME - Birme was used to changing the images from png/jpeg to webp. (https://www.birme.net/?no_resize=true&auto_height=true&image_format=webp&quality_webp=100&wm_size=100)
 
 ## Testing
 
