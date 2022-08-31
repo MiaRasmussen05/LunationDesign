@@ -99,7 +99,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - With a matching font for anything there is not a header is 'Nunito' and secondary of sans-serif.
 
 - __Color Scheme__
-![Image of the color scheme, pallet made on https://coolors.co/](./assets/images/READMEimages/Colors.PNG)
+![Image of the color scheme, pallet made on https://coolors.co/](./assets/images/READMEimages/Lunation_Design_Color_Scheme.webp)
    - For the colors of the site there will be used two main colors of #426E50 (Fairway/green) and #FAC1AB (Yahoo/light skin color), with the shades of #fff (white) and #000 (black), #3B3B3B (Dead Pixel/dark grey) and #FCECE4 (Vanilla Blush/very light skin color).
    - Two very inviting matching main colors that dosn't take away from the stickers bright color schemes.
 
