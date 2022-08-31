@@ -216,4 +216,10 @@ __The Bottom Of Thank You Page Wireframe__
    ### via gitpod
    ### via github pages
 
-## credits
+## Credits
+
+### Code Used
+- Tutor Assistance Sean for the JS on sticker note: Sticky header.
+
+### Content 
+- All images, logo, and text have been made and written by me.
