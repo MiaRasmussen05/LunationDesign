@@ -165,6 +165,11 @@ __The Bottom Of Thank You Page Wireframe__
    ![Image of the validator site that says: Document checking completed. No errors or warnings to show.](./assets/images/READMEimages/Valitator.W3.PNG)
    
    ### test cases (user story based with screenshots)
+
+   ### Bugs
+   - ![Image of not fixed button problem on sticker page](./assets/images/READMEimages/not_fixed_problem.jpg)
+      - On apple products the button on the bottom of the sticker boxes move to the same position at the top of the page, when in position absolute. This however, I couldn't find a solution to.
+
    ### fixed bugs
    - ![Image of fixed text problem on sticker page](./assets/images/READMEimages/fixed_text_problem.jpg)
       - On apple products the text on the sticker page moved to be up at the top from all the boxes becouse it was put in absolute position. This was fixed
