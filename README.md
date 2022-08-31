@@ -179,8 +179,11 @@ __The Bottom Of Thank You Page Wireframe__
 
 
    ### Bugs
-   - ![Image of not fixed button problem on sticker page](./assets/images/READMEimages/not_fixed_problem.jpg)
+   - ![Image of not fixed button problem on sticker page apple products](./assets/images/READMEimages/not_fixed_problem.jpg)
       - On apple products the button on the bottom of the sticker boxes move to the same position at the top of the page, when in position absolute. This however, I couldn't find a solution to.
+      
+      ![Image of not fixed button problem on sticker page on firefox](./assets/images/READMEimages/Buttons_on_firefox.PNG)
+      - On the browser firefox the buttons from the sticker page move one step to the right and leave the page.
 
    ### fixed bugs
    - ![Image of fixed text problem on sticker page](./assets/images/READMEimages/fixed_text_problem.jpg)
