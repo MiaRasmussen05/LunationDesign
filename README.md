@@ -191,15 +191,15 @@ __The Bottom Of Thank You Page Wireframe__
       by removing absolut postion for the text information and put display inline-grid for all the whole sticker boxes. 
 
    ### supported screens and browsers
-    - #### Screens sizes
+      #### Screens sizes
       - The website has responsive design with multiple media queries.
-         - Normal desktop
-         - 1280px wide and down
-         - 992px wide and down
-         - 748px wide and down
-         - 548px wide and down until 280px.
+      - Normal desktop
+      - 1280px wide and down
+      - 992px wide and down
+      - 748px wide and down
+      - 548px wide and down until 280px.
          
-    - #### Browers on computer and phone
+      #### Browers on computer and phone
       - Google chrome: Works perfectly unless on apple products where button on sticker page dosen't work.
       - Microsoft Edge: Works perfectly.
       - Firefox: Backdrop filter isn't suppoerted but the website still looks great without it. The buttons on the sticker page also acts up here. However, they are moved to the side and not moved to the top as on apple products.
