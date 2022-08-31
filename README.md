@@ -154,6 +154,9 @@ __The Bottom Of Thank You Page Wireframe__
    - Coolors - Coolors was used for creating a palent of the colors used. (https://coolors.co/)
    - Am I Responsive? - Am I Responsive was used for having an image of the website on all sizes. (https://ui.dev/amiresponsive?)
    - BIRME - Birme was used to changing the images from png/jpeg to webp. (https://www.birme.net/?no_resize=true&auto_height=true&image_format=webp&quality_webp=100&wm_size=100)
+   - Font Awesome - Font Awesome was used to add icons for the social links in the footer.
+   - Google Dev Tools- Google dev tools where used to test and troubleshoot the webpage as well as fix problems with responsive design and styling.
+   - Google Fonts - Google fonts where used to import every font used in the website.
 
 ## Testing
 
