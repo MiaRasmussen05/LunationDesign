@@ -166,6 +166,18 @@ __The Bottom Of Thank You Page Wireframe__
    
    ### test cases (user story based with screenshots)
 
+   - ### As a visiting user, I can easily understand the main purpose of the website.
+   - ### As a visiting user, I can navigate the website without any problems.
+   ![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./assets/images/READMEimages/Navigation.PNG) 
+
+   - ### As a visiting user, I will be able to learn about the product as well as the creater.
+   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./assets/images/READMEimages/Second_half_of_Landing_page_biggerScreen.PNG)
+   ![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./assets/images/READMEimages/Sticker_boxes_biggerScreens.PNG)
+
+   - ### As a visiting user, I would like to contact the artist for business inquiries.
+   ![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./assets/images/READMEimages/Contact_page.PNG) 
+
+
    ### Bugs
    - ![Image of not fixed button problem on sticker page](./assets/images/READMEimages/not_fixed_problem.jpg)
       - On apple products the button on the bottom of the sticker boxes move to the same position at the top of the page, when in position absolute. This however, I couldn't find a solution to.
