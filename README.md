@@ -198,6 +198,18 @@ __The Bottom Of Thank You Page Wireframe__
          - 992px wide and down
          - 748px wide and down
          - 548px wide and down until 280px.
+         
+    - #### Browers on computer and phone
+      - Google chrome: Works perfectly unless on apple products where button on sticker page dosen't work.
+      - Microsoft Edge: Works perfectly.
+      - Firefox: Backdrop filter isn't suppoerted but the website still looks great without it. The buttons on the sticker page also acts up here. However, they are moved to the side and not moved to the top as on apple products.
+      ![Image of not fixed button problem on sticker page](./assets/images/READMEimages/Buttons_on_firefox.PNG)
+      - Safari: Works great other then the button on sticker page.
+      - Iphone 4: Works great other then the button on sticker page.
+      - Iphone 5 SE: Works great other then the button on sticker page.
+      - Iphone SE: Works great other then the button on sticker page.
+      - Samsung phone: Works perfectly.
+      - Huawei phone: Works perfectly.
 
 ## Deployment
 
