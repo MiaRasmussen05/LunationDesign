@@ -188,10 +188,11 @@ __The Bottom Of Thank You Page Wireframe__
    ### fixed bugs
    - ![Image of fixed text problem on sticker page](./assets/images/READMEimages/fixed_text_problem.jpg)
       - On apple products the text on the sticker page moved to be up at the top from all the boxes becouse it was put in absolute position. This was fixed
-      by removing absolut postion for the text information and put display inline-grid for all the whole sticker boxes. 
+      by removing absolut postion for the text information and put display inline-grid for all the whole sticker boxes. '
 
-   ### supported screens and browsers
-      #### Screens sizes
+      ### Supported screens and browers
+
+      #### Screens
       - The website has responsive design with multiple media queries.
       - Normal desktop
       - 1280px wide and down
