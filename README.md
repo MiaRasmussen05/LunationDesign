@@ -214,7 +214,13 @@ __The Bottom Of Thank You Page Wireframe__
 ## Deployment
 
    ### via gitpod
-   - 
+   - Write in the terminal.
+   - git add .
+   - git commit -m ""
+   - In the commit you write a commit that will tell what you just did in the code.
+   - git push
+   - Now the saved code you just made have been pushed to your git hub repositori. 
+
    ### via github pages
    - Log in to Github.
    - Go to the repositories.
