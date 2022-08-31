@@ -161,6 +161,9 @@ __The Bottom Of Thank You Page Wireframe__
 ## Testing
 
    ### code validation
+   - Validator.W3 was used to validate the HTML code on the whole website. (https://validator.w3.org/#validate_by_input)
+   ![Image of the validator site that says: Document checking completed. No errors or warnings to show.](./assets/images/READMEimages/Valitator.W3.PNG)
+   
    ### test cases (user story based with screenshots)
    ### fixed bugs
    ### supported screens and browsers
