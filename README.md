@@ -214,7 +214,15 @@ __The Bottom Of Thank You Page Wireframe__
 ## Deployment
 
    ### via gitpod
+   - 
    ### via github pages
+   - Log in to Github.
+   - Go to the repositories.
+   - Then take this project LunationDesign.
+   - Go to the settings link.
+   - Then click on the pages link that is found on the navigations bar on the left side.
+   - Check the source section on the page, and choose main instead of none.
+   - Then click Save. After a few minutes you can see your live Github pages site is now deployed and the URL shown at the top of the page.
 
 ## Credits
 
