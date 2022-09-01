@@ -308,10 +308,6 @@ footer {
 
 /* Sticker boxes */
 
-.sticker-flex {
-    display: flexbox;
-}
-
 .sticker {
     width: 30%;
     height: 820px;
