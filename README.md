@@ -4,7 +4,7 @@
 
 ## Purpose Of The Project
 
-![Image of the responsive website on phone, iPad, laptop and screen from https://ui.dev/amiresponsive?](./assets/images/READMEimages/Responsive.PNG) 
+![Image of the responsive website on phone, iPad, laptop and screen from https://ui.dev/amiresponsive?](./READMEimages/Responsive.PNG) 
 
 Lunation Design is a full on responsive website that wants to spread the word of the creaters designs. Tell the visiters about the creater and about the stickers they make. The page is targeted towards anyone with a passion and love for stickers as well as puns. There for the website will be usefull for the creater to get their work out in the world while also letting the buyers get closer to the creater themself.
 
@@ -20,8 +20,8 @@ Lunation Design is a full on responsive website that wants to spread the word of
    ### Existing Features
 
 - __Navigation Bar__
-![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./assets/images/READMEimages/Navigation.PNG) 
-![Image of navigation and header for phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact.](./assets/images/READMEimages/Navigation_Phone.PNG)
+![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./READMEimages/Navigation.PNG) 
+![Image of navigation and header for phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact.](./READMEimages/Navigation_Phone.PNG)
 
    - It is featured on all three pages on the website, the navigation bar is full responsive and it includes Lunation Design logo on the left side, links to the Home page, Stickers page, and Contact page and it is identical on each of the three pages to allow the user easy navigation.
    - The navigation bar allows the user to easily navigate between the pages on the site, across the different devices.
@@ -29,13 +29,13 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
 - __The Landing Page__
    - __Image And Quote__
-![Image of the first part of the landing page. With the Hero image with a dark overlay taht shows - A pile of stickers from the sticker page, on a table, with the sticker of a digital drawing of a girl in a red shirt with black skirt and brown boots, long brown hair and blue eyes, holding a huge yellow pensel. With text in the middle of the image the slogan at the top and some text under it.](./assets/images/READMEimages/First_half_of_Landing_page.PNG)
+![Image of the first part of the landing page. With the Hero image with a dark overlay taht shows - A pile of stickers from the sticker page, on a table, with the sticker of a digital drawing of a girl in a red shirt with black skirt and brown boots, long brown hair and blue eyes, holding a huge yellow pensel. With text in the middle of the image the slogan at the top and some text under it.](./READMEimages/First_half_of_Landing_page.PNG)
       - The first half of landing page on all screens includes an image that goes across the top of the screen with a dark overlay and text in the middle, the slogan at the top and some text under it.  
       - The image as well as the text introduces the website of Lunation Design with its slogan and its purpose, it is the first thing the visiter see.  
 
    - __About__
-   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./assets/images/READMEimages/Second_half_of_Landing_page_biggerScreen.PNG) 
-   ![Image of second part of the landing page - the about section - for the smaller screen sizes](./assets/images/READMEimages/Second_half_of_Landing_page_smallerScreen.PNG)
+   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./READMEimages/Second_half_of_Landing_page_biggerScreen.PNG) 
+   ![Image of second part of the landing page - the about section - for the smaller screen sizes](./READMEimages/Second_half_of_Landing_page_smallerScreen.PNG)
       - The bottom of the Landing page includes the about section. In this the visiter on the site get to know a little about the creater behind the stickers.
       - It has the header - About Us - in a box #FAC1AB (Yahoo/light skin color), with a #426E50 (Fairway/green) colored box behind it.
       - It also have three boxes under it that gives the visiter a bit of information on the creater.
@@ -45,17 +45,17 @@ Lunation Design is a full on responsive website that wants to spread the word of
       - The boxes are responsive. On bigger screens the first two boxes are beside each other and the last one is under them and centered. While on smaller screens the three boxes is centered and under each other.
 
 - __Footer__
-![Image of the footer with the three Font Awesome icons for the social links](./assets/images/READMEimages/Footer.PNG) 
+![Image of the footer with the three Font Awesome icons for the social links](./READMEimages/Footer.PNG) 
    - It is featured on all three pages on the website just like the navigiation bar, the footer includes the links to the social media that is relevant for this website. All the links opens up on new tabs for the visiters, for easy navigation, and there for no using the "back" button.
    - The main color is #3B3B3B (Dead Pixel/dark grey), with the icons having the color of #FAC1AB (Yahoo/light skin color) and on hover the color of #426E50 (Fairway/green).
    - It is important because the creater wants to reach out to more people, and through the social media links the creater can do that.
 
 - __The Stickers Page__
-![Image of the top of the stickers page on bigger screens. The header that says "Stickers Library" in the center, with a box to the right that has some information for the visiter.](./assets/images/READMEimages/The_head_of_stickers_page.PNG)
-![Image of the top of the stickers page on smaller screens. The header that says "Stickers Library" in the center, with a box under it that has some information for the visiter.](./assets/images/READMEimages/The_head_of_stickers_page_smallerScreens.PNG)
-![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./assets/images/READMEimages/Sticker_boxes_biggerScreens.PNG)
-![Image of the stickers boxes on the stickers page on medium screens. With two boxes beside each other, there can be seen the two top boxes from the stickers page - Excited Puppy and The Rosie Way.](./assets/images/READMEimages/Sticker_boxes_mediumScreens.PNG)
-![Image of the stickers boxes on the stickers page on smaller screens. There can be seen the top one box from the stickers page - Excited Puppy.](./assets/images/READMEimages/Sticker_boxes_smallerScreens.PNG)
+![Image of the top of the stickers page on bigger screens. The header that says "Stickers Library" in the center, with a box to the right that has some information for the visiter.](./READMEimages/The_head_of_stickers_page.PNG)
+![Image of the top of the stickers page on smaller screens. The header that says "Stickers Library" in the center, with a box under it that has some information for the visiter.](./READMEimages/The_head_of_stickers_page_smallerScreens.PNG)
+![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./READMEimages/Sticker_boxes_biggerScreens.PNG)
+![Image of the stickers boxes on the stickers page on medium screens. With two boxes beside each other, there can be seen the two top boxes from the stickers page - Excited Puppy and The Rosie Way.](./READMEimages/Sticker_boxes_mediumScreens.PNG)
+![Image of the stickers boxes on the stickers page on smaller screens. There can be seen the top one box from the stickers page - Excited Puppy.](./READMEimages/Sticker_boxes_smallerScreens.PNG)
    - This page is important for the visiters, here they can read about each sticker when the creater post it.
    - It is valuble for the vister because this is the actul selling point.
    - It is easy to navigate and understand which sticker is which, making it more enjoyable for the visiter.
@@ -64,8 +64,8 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - A header and information box that well inform the visiter of the things they need to know on this page, at the top of the page.
 
 - __The Contact Page__
-![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./assets/images/READMEimages/Contact_page.PNG) 
-![Image of the contact page on smaller screens. With the header at the top taht says "Contact Us" under it is the information box and then under that is the form.](./assets/images/READMEimages/Contact_page_smallerScreens.PNG) 
+![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./READMEimages/Contact_page.PNG) 
+![Image of the contact page on smaller screens. With the header at the top taht says "Contact Us" under it is the information box and then under that is the form.](./READMEimages/Contact_page_smallerScreens.PNG) 
    - With this page the visiters will be able to contact the creater, with any inquiries they have.
    - They can write a comment to the creater about if they want there own sticker made, changed one of the already existing stickers, just send a message, or something different. Therefor the visiter will be asked to submit there first and last name, email, and what it is about.
    - There is also a information box about the different options of messeges there is for the visiters.
@@ -74,9 +74,9 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - The send button works, and send the visiter to the thank you page.
 
 - __Thank You Page__
-![Image of the top of the thank you page. With a thank you message for the user in the center.](./assets/images/READMEimages/Thank_you_page_top.PNG) 
-![Image of the bottom of the thank you page. Two boxes one the left and right, and an image inbetween them of - A digital drawing of Lunation Design as a chibi design girl in a red shirt with black skirt and brown boots, long brown hair and big blue eyes, holding a huge yellow pensel. A box centered under the image as well](./assets/images/READMEimages/Thank_you_page_bottom.PNG) 
-![Image of the bottom of the thank you page for smaller screens. An image of - A digital drawing of Lunation Design as a chibi design girl in a red shirt with black skirt and brown boots, long brown hair and big blue eyes, holding a huge yellow pensel. The three boxes centered under the image.](./assets/images/READMEimages/Thank_you_page_bottom_smallerScreens.PNG) 
+![Image of the top of the thank you page. With a thank you message for the user in the center.](./READMEimages/Thank_you_page_top.PNG) 
+![Image of the bottom of the thank you page. Two boxes one the left and right, and an image inbetween them of - A digital drawing of Lunation Design as a chibi design girl in a red shirt with black skirt and brown boots, long brown hair and big blue eyes, holding a huge yellow pensel. A box centered under the image as well](./READMEimages/Thank_you_page_bottom.PNG) 
+![Image of the bottom of the thank you page for smaller screens. An image of - A digital drawing of Lunation Design as a chibi design girl in a red shirt with black skirt and brown boots, long brown hair and big blue eyes, holding a huge yellow pensel. The three boxes centered under the image.](./READMEimages/Thank_you_page_bottom_smallerScreens.PNG) 
    - The visiter will be send to this page after sending the form to the creater from the contact page. 
    - It is to show the visiter that there message have been send, and will be answered.
    - The thank you page also have information for the visiter about their messages. In case there is a backlock off messages and they haven't gotten a respond from the creater.
@@ -99,7 +99,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - With a matching font for anything there is not a header is 'Nunito' and secondary of sans-serif.
 
 - __Color Scheme__
-![Image of the color scheme, pallet made on https://coolors.co/](./assets/images/READMEimages/Lunation_Design_Color_Scheme.webp)
+![Image of the color scheme, pallet made on https://coolors.co/](./READMEimages/Lunation_Design_Color_Scheme.webp)
    - For the colors of the site there will be used two main colors of #426E50 (Fairway/green) and #FAC1AB (Yahoo/light skin color), with the shades of #fff (white) and #000 (black), #3B3B3B (Dead Pixel/dark grey) and #FCECE4 (Vanilla Blush/very light skin color).
    - Two very inviting matching main colors that dosn't take away from the stickers bright color schemes.
 
@@ -162,31 +162,31 @@ __The Bottom Of Thank You Page Wireframe__
 
    ### code validation
    - Validator.W3 was used to validate the HTML code on the whole website. (https://validator.w3.org/#validate_by_input)
-   ![Image of the validator site that says: Document checking completed. No errors or warnings to show.](./assets/images/READMEimages/Valitator.W3.PNG)
+   ![Image of the validator site that says: Document checking completed. No errors or warnings to show.](./READMEimages/Valitator.W3.PNG)
    
    ### test cases (user story based with screenshots)
 
    - ### As a visiting user, I can easily understand the main purpose of the website.
    - ### As a visiting user, I can navigate the website without any problems.
-   ![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./assets/images/READMEimages/Navigation.PNG) 
+   ![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./READMEimages/Navigation.PNG) 
 
    - ### As a visiting user, I will be able to learn about the product as well as the creater.
-   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./assets/images/READMEimages/Second_half_of_Landing_page_biggerScreen.PNG)
-   ![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./assets/images/READMEimages/Sticker_boxes_biggerScreens.PNG)
+   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./READMEimages/Second_half_of_Landing_page_biggerScreen.PNG)
+   ![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./READMEimages/Sticker_boxes_biggerScreens.PNG)
 
    - ### As a visiting user, I would like to contact the artist for business inquiries.
-   ![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./assets/images/READMEimages/Contact_page.PNG) 
+   ![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./READMEimages/Contact_page.PNG) 
 
 
    ### Bugs
-   - ![Image of not fixed button problem on sticker page apple products](./assets/images/READMEimages/not_fixed_problem.jpg)
+   - ![Image of not fixed button problem on sticker page apple products](./READMEimages/not_fixed_problem.jpg)
       - On apple products the button on the bottom of the sticker boxes move to the same position at the top of the page, when in position absolute. This however, I couldn't find a solution to.
 
-      ![Image of not fixed button problem on sticker page on firefox](./assets/images/READMEimages/Buttons_on_firefox.PNG)
+      ![Image of not fixed button problem on sticker page on firefox](./READMEimages/Buttons_on_firefox.PNG)
       - On the browser firefox the buttons from the sticker page move one step to the right and leave the page.
 
    ### fixed bugs
-   - ![Image of fixed text problem on sticker page](./assets/images/READMEimages/fixed_text_problem.jpg)
+   - ![Image of fixed text problem on sticker page](./READMEimages/fixed_text_problem.jpg)
       - On apple products the text on the sticker page moved to be up at the top from all the boxes becouse it was put in absolute position. This was fixed
       by removing absolut postion for the text information and put display inline-grid for all the whole sticker boxes. '
 
@@ -204,7 +204,7 @@ __The Bottom Of Thank You Page Wireframe__
       - Google chrome: Works perfectly unless on apple products where button on sticker page dosen't work.
       - Microsoft Edge: Works perfectly.
       - Firefox: Backdrop filter isn't suppoerted but the website still looks great without it. The buttons on the sticker page also acts up here. However, they are moved to the side and not moved to the top as on apple products.
-      ![Image of not fixed button problem on sticker page](./assets/images/READMEimages/Buttons_on_firefox.PNG)
+      ![Image of not fixed button problem on sticker page](./READMEimages/Buttons_on_firefox.PNG)
       - Safari: Works great other then the button on sticker page.
       - Iphone 4: Works great other then the button on sticker page.
       - Iphone 5 SE: Works great other then the button on sticker page.
