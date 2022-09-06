@@ -351,6 +351,15 @@ footer {
 
 /* Sticker box button */
 
+button {
+    background: none;
+    position: relative;
+    object-fit: contain;
+    border: none;
+    border-radius: 10px;
+    margin-right: 23.5%;
+}
+
 .store-btn {
     width: 30%;
     position: absolute;
