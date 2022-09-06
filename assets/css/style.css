@@ -413,6 +413,7 @@ button {
 }
 
 .little-information li {
+    list-style: none;
     padding: 2%;
 }
 
@@ -949,10 +950,6 @@ textarea {
         font-size: 100%;
         float: none;
         margin: 3% 0 0 7%;
-    }
-
-    .little-information li {
-        list-style: none;
     }
 
     .little-information h2 {
