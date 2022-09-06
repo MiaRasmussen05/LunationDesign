@@ -351,24 +351,20 @@ footer {
 
 /* Sticker box button */
 
-button {
-    width: 22%;
-    height: 40px;
+.store-btn {
+    width: 30%;
     position: absolute;
     bottom: 0;
-    font-size: 75%;
+    font-size: 130%;
+    font-weight: 600;
+    text-decoration: none;
     border: none;
     border-radius: 4px;
     background-color: #fac1ab;
     box-shadow: 2px 2px 2px #000;
     cursor: pointer;
     padding: 1.5%;
-    margin: 2% 40%;
-}
-
-button a {
-    text-decoration: none;
-    font-weight: 600;
+    margin: 0 0 2% 0;
 }
 
 /* Contact page */
