@@ -469,6 +469,10 @@ form {
 textarea {
     width: 91.5%;
     height: 140px;
+    min-width: 91.5%;
+    max-width: 91.5%;
+    min-height: 50px;
+    max-height: 280px;
     padding: 2%;
     margin-left: 2%;
 }
