@@ -1099,15 +1099,19 @@ textarea {
 
     /* Footer */
 
-    footer {
-        height: 40px;
+    .footer-logo {
+        width: 190px;
     }
-
-    /* Social links */
-
-    .social-links i {
-        font-size: 150%;
-        padding-top: 8px;
+    
+    .footer-logo img {
+        width: 30px;
+        padding: 10px 5px 10px 10px;
+        
+    }
+    
+    .footer-logo p {
+        font-size: 90%;
+        padding-top: 18px;
     }
 
     /* Sticker page */
