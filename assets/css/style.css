@@ -1114,6 +1114,24 @@ textarea {
         padding-top: 18px;
     }
 
+    .social-links {
+        width: 60%;
+        overflow: none;
+        margin-right: 2%;
+    }
+    
+    .social-links li {
+        margin-left: 7%;
+    }
+    
+    .social-links i {
+        font-size: 190%;
+    }
+    
+    .fa-instagram, .fa-store {
+        margin-left: 4%;
+    }
+
     /* Sticker page */
 
     /* Sticker page and Contact page header */
