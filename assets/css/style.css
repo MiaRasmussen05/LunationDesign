@@ -629,12 +629,6 @@ textarea {
         margin-left: 20%;
     }
 
-    /* Footer */
-
-    footer {
-        height: 50px;
-    }
-
     /* Social links */
 
     .social-links i {
@@ -925,6 +919,32 @@ textarea {
         width: 40%;
         margin-left: 15%;
     }
+
+    /* Footer */
+
+    .footer-logo {
+        width: 300px;
+    }
+    
+    .footer-logo img {
+        width: 17.3%;
+        padding-left: 15px;
+        
+    }
+    
+    .footer-logo p {
+        font-size: 140%;
+        padding-top: 16px;
+    }
+    
+    .social-links {
+        margin-right: 3%;
+    }
+    
+    .social-links i {
+        font-size: 260%;
+    }
+
 
     /* Sticker page */
 
