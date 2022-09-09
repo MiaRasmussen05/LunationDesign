@@ -240,10 +240,28 @@ main {
 
 footer {
     width: 100%;
-    height: 60px;
+    display: flex;
     background-color: #3B3B3B;
     left: 0;
     bottom: 0;
+}
+
+.footer-logo {
+    width: 500px;
+    display: inline-flex;
+}
+
+.footer-logo img {
+    width: 12%;
+    padding: 10px 7px 10px 5%;
+    
+}
+
+.footer-logo p {
+    font-family: "Cormorant SC", sans-serif;
+    font-size: 140%;
+    color: #fff;
+    padding-top: 21px;
 }
 
 /* social links */
