@@ -267,23 +267,29 @@ footer {
 /* social links */
 
 .social-links {
-    text-align: center;
-    margin-right: 10%;
+    width: 70%;
+    float: left;
+    margin: 0 auto;
 }
 
 .social-links li {
+    width: 100%;
     display: inline;
-    padding-left: 14%;
+    margin-left: 5%;
 }
 
 .social-links i {
-    font-size: 200%;
+    font-size: 300%;
     color: #FAC1AB;
-    padding-top: 14px;
+    padding: 10px 0;
 }
 
 .social-links i:hover {
     color: #426E50;
+}
+
+.fa-instagram, .fa-store {
+    margin-left: 18%;
 }
 
 /* Top of Sticker page */
