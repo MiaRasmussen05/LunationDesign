@@ -382,11 +382,11 @@ button {
     object-fit: contain;
     border: none;
     border-radius: 10px;
-    margin-right: 23.5%;
+    margin-right: 30%;
 }
 
 .store-btn {
-    width: 30%;
+    width: 40%;
     position: absolute;
     bottom: 0;
     font-size: 130%;
@@ -675,7 +675,12 @@ textarea {
 
     /* Sticker box button */
 
+    button {
+        margin-right: 25%;
+    }
+
     .store-btn {
+        width: 30%;
         font-size: 110%;
     }
 
@@ -800,6 +805,10 @@ textarea {
     }
 
     /* Sticker box button */
+
+    button {
+        margin-right: 25%;
+    }
 
     .store-btn {
         width: 35%;
@@ -988,6 +997,10 @@ textarea {
 
     .information {
         font-size: 90%;
+    }
+
+    button {
+        margin-right: 26%;
     }
 
     /* Contact page */
@@ -1180,8 +1193,8 @@ textarea {
 
     /* Sticker box button */
 
-    .store-btn {
-        margin-right: 25%;
+    button {
+        margin-right: 26%;
     }
 
     /* Contact page */
