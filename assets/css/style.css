@@ -240,10 +240,13 @@ main {
 
 footer {
     width: 100%;
-    display: flex;
     background-color: #3B3B3B;
     left: 0;
     bottom: 0;
+}
+
+.footer-top-wrapper {
+    display: flex;
 }
 
 .footer-logo {
@@ -263,6 +266,20 @@ footer {
     color: #fff;
     padding-top: 21px;
 }
+
+.footer-bottom-wrapper {
+    text-align: center;
+}
+
+.copyright, .disclaimer {
+    font-size: 80%;
+    color: #FAC1AB;
+margin: 0 10% 0 2%;
+}
+
+.disclaimer {
+    text-transform: uppercase;
+ }
 
 /* social links */
 
