@@ -762,6 +762,10 @@ textarea {
         margin: 1.5% 0 0 3%;
     }
 
+    .Seventh {
+        margin-bottom: 1.5%;
+    }
+
     /* Text information in sticker boxes */
 
     .head-liner {
@@ -941,6 +945,10 @@ textarea {
         position: static;
         font-size: 110%;
         margin: 4% 0 0 10%;
+    }
+
+    .Seventh {
+        margin-bottom: 4%;
     }
 
     /* Text information in sticker boxes */
@@ -1125,6 +1133,10 @@ textarea {
         top: 150px;
         font-size: 110%;
         margin: 4% 0 0 5%;
+    }
+
+    .Seventh {
+        margin-bottom: 3.5%;
     }
 
     /* Text information in sticker boxes */
