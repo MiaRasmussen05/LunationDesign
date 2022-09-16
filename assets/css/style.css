@@ -8,7 +8,7 @@
     margin: 0;
 }
 
-/* Header */
+/* START OF THE HEADER */
 
 .color-line {
     width: 100%;
@@ -31,8 +31,6 @@
 header a {
     text-decoration: none;
 }
-
-/* Navigation */
 
 nav {
     width: 100%;
@@ -59,7 +57,7 @@ nav a:hover {
     border-bottom: 4px solid #426E50;
 }
 
-/* Logo */
+/* THE LOGO IMAGE ON THE HEADER */
 
 .logo {
     width: 120px;
@@ -68,7 +66,7 @@ nav a:hover {
     z-index: 7;
 }
 
-/* main */
+/* THE MAIN PART OF THE BODY */
 
 main {
     object-fit: cover;
@@ -77,9 +75,7 @@ main {
     background-size: cover;
 }
 
-/*Top of Home Page */
-
-/* Hero img */
+/* START OF THE FIRST SECTION ON THE HOME PAGE (IMAGE QUOTE) */
 
 .img-quote {
     display: flex;
@@ -102,8 +98,6 @@ main {
     opacity: 0.3;
     margin-top: -15%;
 }
-
-/* Quote and line */
 
 .quote-wrapper {
     max-width: 90%;
@@ -135,16 +129,12 @@ main {
     z-index: 4;
 }
 
-/* Bottom of Home Page */
-
-/* About section */
+/* START OF THE SECOND SECTION ON THE HOME PAGE (ABOUT) */
 
 .about {
     width: 100%;
     margin: -15% 0 0 0;
 }
-
-/* About header logo */
 
 .fancy-logo {
     width: 80%;
@@ -181,8 +171,6 @@ main {
     line-height: 240%;
 }
 
-/* About information */
-
 .about-information {
     width: 97%;
     display: inline-block;
@@ -195,8 +183,6 @@ main {
     font-weight: 600;
     padding-bottom: 3%;
 }
-
-/* About boxes */
 
 .about-creator,
 .about-why {
@@ -236,7 +222,7 @@ main {
     font-weight: 600;
 }
 
-/* Footer */
+/* START OF THE FOOTER */
 
 footer {
     width: 100%;
@@ -278,9 +264,7 @@ footer {
 
 .disclaimer {
     text-transform: uppercase;
- }
-
-/* social links */
+}
 
 .social-links {
     width: 70%;
@@ -308,9 +292,7 @@ footer {
     margin-left: 18%;
 }
 
-/* Top of Sticker page */
-
-/* Sticker headline */
+/* START OF THE SECTION ON THE STICKER PAGE (STICKER BOXES) */
 
 .library {
     width: 100%;
@@ -321,8 +303,6 @@ footer {
     padding-top: 3%;
     margin-bottom: 3%;
 }
-
-/* Sticker boxes */
 
 .sticker {
     width: 30%;
@@ -338,16 +318,12 @@ footer {
     margin: 1% 0 1.5% 2.3%;
 }
 
-/* Sticker images */
-
 .img-sticker {
     width: 100%;
     object-fit: cover;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
 }
-
-/* Text information in sticker boxes*/
 
 .head-liner {
     width: 98%;
@@ -365,8 +341,6 @@ footer {
     padding: 0 2% 2% 2%;
     margin: 0 2% 2% 2%;
 }
-
-/* Sticker box button */
 
 button {
     background: none;
@@ -393,13 +367,11 @@ button {
     margin: 0 0 2% 0;
 }
 
-/* Contact page */
+/* START OF THE CONTACT PAGE */
 
 .contact-main {
     overflow: auto;
 }
-
-/* Headline and information box */
 
 .contactUs {
     width: 100%;
@@ -434,7 +406,7 @@ button {
     padding: 2%;
 }
 
-/* Form */
+/* START OF THE FORM ON THE CONTACT PAGE */
 
 form {
     width: 25%;
@@ -444,8 +416,6 @@ form {
     padding: 1%;
     margin: 7% 0 10% 15%;
 }
-
-/* Form input*/
 
 .input-wrapper {
     width: 100%;
@@ -460,8 +430,6 @@ form {
     padding: 0 3%;
     margin: 2%;
 }
-
-/* Form radio buttons */
 
 .radio-wrapper {
     width: 100%;
@@ -481,8 +449,6 @@ form {
     margin-left: 2%;
 }
 
-/* Form textarea */
-
 textarea {
     width: 91.5%;
     height: 140px;
@@ -493,8 +459,6 @@ textarea {
     padding: 2%;
     margin-left: 2%;
 }
-
-/* Form button */
 
 .btn {
     width: 25%;
@@ -508,9 +472,7 @@ textarea {
     margin: 5% 0 4% 40%;
 }
 
-/* Top of Thank You Page */
-
-/* Thank you note */
+/* START OF THE FIRST SECTION ON THE THANKS PAGE (THANK YOU TEXT) */
 
 .thankYou {
     padding: 13% 0 1% 0;
@@ -529,21 +491,17 @@ textarea {
     color: #000;
 }
 
-/* The End Of Thank You Page The Response */
+/* START OF THE SECOND SECTION ON THE THANKS PAGE (RESPONSE) */
 
 .response-wrapper {
     width: 100%;
     margin-bottom: 2%;
 }
 
-/* Image character */
-
 .Chibi-character {
     width: 20%;
     margin: 0 auto;
 }
-
-/* Response boxes */
 
 .response {
     width: 30%;
