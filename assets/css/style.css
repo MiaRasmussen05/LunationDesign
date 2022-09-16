@@ -539,13 +539,13 @@ textarea {
     margin: 2% auto;
 }
 
-/* Media Query */
+/* MEDIA QUERIES */
 
 /* For larger screen sizes from 1280px wide and down */
 
 @media screen and (max-width: 1280px) {
 
-    /* Header */
+    /* START OF HEADER */
 
     .color-line {
         height: 15px;
@@ -555,7 +555,7 @@ textarea {
         margin-top: 0.8%;
     }
 
-    /* Quote and line */
+    /* START OF THE HOME PAGE */
 
     .quote {
         font-size: 300%;
@@ -568,8 +568,6 @@ textarea {
         margin-left: 16%;
     }
 
-    /* About */
-
     .color-border {
         width: 30%;
         margin-left: 30%;
@@ -580,15 +578,13 @@ textarea {
         margin-left: 20%;
     }
 
-    /* Social links */
+    /* START OF FOOTER */
 
     .social-links i {
         padding-top: 9px;
     }
 
-    /* Sticker page */
-
-    /* Sticker boxes */
+    /* START OF THE STICKER PAGE */
 
     .sticker {
         width: 45%;
@@ -596,8 +592,6 @@ textarea {
         font-size: 120%;
         margin: 1% 0 1.5% 3%;
     }
-
-    /* Text information in sticker boxes */
 
     .head-liner {
         font-size: 130%;
@@ -608,8 +602,6 @@ textarea {
         font-size: 90%;
     }
 
-    /* Sticker box button */
-
     button {
         margin-right: 25%;
     }
@@ -619,9 +611,7 @@ textarea {
         font-size: 110%;
     }
 
-    /* Contact page */
-
-    /* Information box */
+    /* START OF THE CONTACT PAGE */
 
     .little-information {
         width: 40%;
@@ -632,47 +622,38 @@ textarea {
         font-size: 260%;
     }
 
-    /* Form */
-
     form {
         width: 320px;
         margin-left: 9%;
     }
 
-    /* Thank You Page */
-
-    /* Thank you note */
+    /* START OF THE THANKS PAGE */
 
     .thanks-text {
         width: 90%;
         padding: 0 5% 15% 5%;
     }
 
-    /* The response */
-
     .response-wrapper h2 {
         font-size: 190%;
     }
-
 }
 
 /* For medium screen sizes from 992px wide and down */
 
 @media screen and (max-width: 992px) {
 
-    /* Header */
+    /* START OF HEADER */
 
     .logo-text {
         font-size: 220%;
     }
 
-    /* About section */
+    /* START OF THE HOME PAGE */
 
     .about {
         transition: ease all 2s;
     }
-
-    /* About boxes */
 
     .about-creator,
     .about-why,
@@ -693,15 +674,13 @@ textarea {
         margin-left: 6.5%;
     }
 
-    /* Footer */
+    /* START OF FOOTER */
 
     .copyright, .disclaimer {
         font-size: 60%;
     }
 
-    /* Sticker page */
-
-    /* Sticker page and Contact page header */
+    /* START OF THE STICKER PAGE */
 
     .header-front {
         font-size: 400%;
@@ -711,8 +690,6 @@ textarea {
     .library {
         margin-bottom: 3%;
     }
-
-    /* Sticker boxes */
 
     .sticker {
         height: 660px;
@@ -724,8 +701,6 @@ textarea {
         margin-bottom: 1.5%;
     }
 
-    /* Text information in sticker boxes */
-
     .head-liner {
         font-size: 140%;
     }
@@ -733,8 +708,6 @@ textarea {
     .information {
         font-size: 90%;
     }
-
-    /* Sticker box button */
 
     button {
         margin-right: 25%;
@@ -745,9 +718,7 @@ textarea {
         font-size: 100%;
     }
 
-    /* Contact page */
-
-    /* Contact page information box */
+    /* START OF THE CONTACT PAGE */
 
     .little-information {
         width: 60%;
@@ -759,27 +730,19 @@ textarea {
         font-size: 230%;
     }
 
-    /* Form */
-
     form {
         margin: 5% 0 10% 33%;
     }
 
-    /* Thank You Page */
-
-    /* Thank you note */
+    /* START OF THE THANKS PAGE */
 
     .thankYou {
         padding: 14% 0 1% 0;
     }
 
-    /* Image character */
-
     .Chibi-character {
         width: 30%;
     }
-
-    /* Response boxes */
 
     .response-wrapper {
         width: 100%;
@@ -795,14 +758,13 @@ textarea {
         height: 160px;
         float: none;
     }
-
 }
 
 /* For small screen sizes from 748px wide and down */
 
 @media screen and (max-width: 748px) {
 
-    /* Header */
+    /* START OF HEADER */
 
     .color-line {
         height: 10px;
@@ -820,7 +782,7 @@ textarea {
         font-size: 110%;
     }
 
-    /* Hero img */
+    /* START OF THE HOME PAGE */
 
     .dark-overlay {
         height: 80%;
@@ -829,8 +791,6 @@ textarea {
     .hero-img {
         margin-top: -10%;
     }
-
-    /* Quote and line */
 
     .quote {
         width: 100%;
@@ -843,13 +803,9 @@ textarea {
         margin-left: 8%;
     }
 
-    /* About section */
-
     .about {
         margin-top: 0%;
     }
-
-    /* About header logo */
 
     .color-border {
         width: 40%;
@@ -860,7 +816,7 @@ textarea {
         margin-left: 15%;
     }
 
-    /* Footer */
+    /* START OF FOOTER */
 
     .footer-logo {
         width: 300px;
@@ -886,16 +842,12 @@ textarea {
     }
 
 
-    /* Sticker page */
-
-    /* Sticker page and Contact page header */
+    /* START OF THE STICKER PAGE */
 
     .header-front {
         font-size: 360%;
         padding-top: 3%;
     }
-
-    /* Sticker boxes */
 
     .sticker {
         width: 80%;
@@ -908,8 +860,6 @@ textarea {
     .Seventh {
         margin-bottom: 4%;
     }
-
-    /* Text information in sticker boxes */
 
     .head-liner {
         width: 100%;
@@ -924,9 +874,7 @@ textarea {
         margin-right: 26%;
     }
 
-    /* Contact page */
-
-    /* Contact information box */
+    /* START OF THE CONTACT PAGE */
 
     .little-information {
         width: 80%;
@@ -939,33 +887,26 @@ textarea {
         font-size: 210%;
     }
 
-    /* Form */
-
     form {
         margin: 5% 0 10% 20%;
     }
 
-    /* Thank You Page */
-
-    /* Thank you note */
+    /* START OF THE THANKS PAGE */
 
     .thankYou {
         padding: 17% 0 1% 0;
     }
 
-    /* Image character */
-
     .Chibi-character {
         width: 40%;
     }
-
 }
 
 /* For small screen sizes from 548px wide and down */
 
 @media screen and (max-width: 548px) {
 
-    /* Header */
+    /* START OF HEADER */
 
     .logo-text {
         font-size: 180%;
@@ -975,15 +916,13 @@ textarea {
         font-size: 90%;
     }
 
-    /* Hero img */
+    /* START OF THE HOME PAGE */
 
     .dark-overlay {
         height: 80%;
         margin-top: -2%;
         transition: none;
     }
-
-    /* Quote and line */
 
     .quote {
         font-size: 160%;
@@ -996,10 +935,6 @@ textarea {
         margin-left: 4%;
     }
 
-    /* About */
-
-    /* About header logo */
-
     .color-border {
         width: 45%;
         margin: 0 0 0 25%;
@@ -1011,8 +946,6 @@ textarea {
         line-height: 320%;
         margin-left: 10%;
     }
-
-    /* About boxes */
 
     .about-information h3 {
         font-size: 150%;
@@ -1032,7 +965,7 @@ textarea {
         font-weight: 600;
     }
 
-    /* Footer */
+    /* START OF FOOTER */
 
     .footer-logo {
         width: 190px;
@@ -1067,22 +1000,16 @@ textarea {
         margin-left: 4%;
     }
 
-    /* Footer */
-
     .disclaimer {
         font-size: 40%;
     }
 
-    /* Sticker page */
-
-    /* Sticker page and Contact page header */
+    /* START OF THE STICKER PAGE */
 
     .header-front {
         font-size: 280%;
         padding-top: 3%;
     }
-
-    /* Sticker boxes */
 
     .sticker {
         width: 90%;
@@ -1097,8 +1024,6 @@ textarea {
         margin-bottom: 3.5%;
     }
 
-    /* Text information in sticker boxes */
-
     .head-liner {
         font-size: 140%;
     }
@@ -1109,15 +1034,11 @@ textarea {
         top: 440px;
     }
 
-    /* Sticker box button */
-
     button {
         margin-right: 26%;
     }
 
-    /* Contact page */
-
-    /* Contact information box */
+    /* START OF THE CONTACT PAGE */
 
     .little-information {
         width: 80%;
@@ -1139,8 +1060,6 @@ textarea {
         font-size: 190%;
     }
 
-    /* Form */
-
     form {
         width: 89%;
         margin: 9% 0 10% 5%;
@@ -1151,9 +1070,7 @@ textarea {
         text-align: center;
     }
 
-    /* Thank You Page */
-
-    /* Thank you note */
+    /* START OF THE THANKS PAGE */
 
     .thankYou {
         padding: 25% 0 1% 0;
@@ -1168,13 +1085,9 @@ textarea {
         font-size: 250%;
     }
 
-    /* Image character */
-
     .Chibi-character {
         width: 50%;
     }
-
-    /* The Response */
 
     .response-wrapper {
         width: 100%;
@@ -1192,5 +1105,4 @@ textarea {
     .response {
         height: 160px;
     }
-
 }
