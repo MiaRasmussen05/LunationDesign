@@ -356,7 +356,7 @@ footer {
     width: 40%;
     position: absolute;
     bottom: 0;
-    font-size: 130%;
+    font-size: 90%;
     font-weight: 600;
     text-align: center;
     text-decoration: none;
@@ -607,7 +607,6 @@ textarea {
 
     .store-btn {
         width: 30%;
-        font-size: 110%;
         margin: 0 33.5% 2% 33.5%;
     }
 
@@ -731,7 +730,6 @@ textarea {
 
     .store-btn {
         width: 35%;
-        font-size: 100%;
         margin: 0 31% 2% 31%;
     }
 
