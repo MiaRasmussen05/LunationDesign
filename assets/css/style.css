@@ -453,11 +453,11 @@ form {
 
 textarea {
     width: 91.5%;
-    height: 140px;
+    height: 145px;
     min-width: 91.5%;
     max-width: 91.5%;
-    min-height: 50px;
-    max-height: 280px;
+    min-height: 145px;
+    max-height: 145px;
     padding: 2%;
     margin-left: 2%;
 }
