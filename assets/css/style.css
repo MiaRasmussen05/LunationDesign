@@ -226,31 +226,15 @@ main {
 
 footer {
     width: 100%;
+    position: relative;
     background-color: #3B3B3B;
     left: 0;
     bottom: 0;
 }
 
 .footer-top-wrapper {
-    display: flex;
-}
-
-.footer-logo {
-    width: 500px;
-    display: inline-flex;
-}
-
-.footer-logo img {
-    width: 12%;
-    padding: 10px 7px 10px 5%;
-    
-}
-
-.footer-logo p {
-    font-family: "Cormorant SC", sans-serif;
-    font-size: 140%;
-    color: #fff;
-    padding-top: 21px;
+    width: 100%;
+    text-align: center;
 }
 
 .footer-bottom-wrapper {
@@ -267,29 +251,44 @@ footer {
 }
 
 .social-links {
-    width: 70%;
-    float: left;
-    margin: 0 auto;
+    display: inline-flex;
 }
 
 .social-links li {
-    width: 100%;
-    display: inline;
-    margin-left: 5%;
+    list-style: none;
+    padding: 0 15% 0 15%;
+}
+
+.social-links:first-child {
+    justify-content: center;
 }
 
 .social-links i {
     font-size: 300%;
     color: #FAC1AB;
-    padding: 10px 0;
+    margin: 28px 0;
 }
 
 .social-links i:hover {
     color: #426E50;
 }
 
-.fa-instagram, .fa-store {
-    margin-left: 18%;
+.footer-logo, .header-logo{
+    display: flex;
+}
+
+.footer-logo img {
+    width: 100px;
+    padding: 10px 7px 10px 0;
+}
+
+.lunation, .design {
+    text-align: center;
+    font-family: "Cormorant SC", sans-serif;
+    font-size: 120%;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 40px;
 }
 
 /* START OF THE SECTION ON THE STICKER PAGE (STICKER BOXES) */
