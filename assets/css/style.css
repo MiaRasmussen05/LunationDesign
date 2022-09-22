@@ -416,7 +416,7 @@ form {
     border-radius: 10px;
     box-shadow: 0 0 5px #3B3B3B;
     padding: 1%;
-    margin: 7% 0 10% 15%;
+    margin: 7% 0 10% 14%;
 }
 
 .input-wrapper {
@@ -623,7 +623,7 @@ textarea {
 
     form {
         width: 320px;
-        margin-left: 9%;
+        justify-content: center;
     }
 
     /* START OF THE THANKS PAGE */
@@ -746,7 +746,7 @@ textarea {
     }
 
     form {
-        margin: 5% 0 10% 33%;
+        margin: 5% auto;
     }
 
     /* START OF THE THANKS PAGE */
@@ -909,10 +909,6 @@ textarea {
         font-size: 210%;
     }
 
-    form {
-        margin: 5% 0 10% 20%;
-    }
-
     /* START OF THE THANKS PAGE */
 
     .thankYou {
@@ -1060,7 +1056,7 @@ textarea {
 
     form {
         width: 89%;
-        margin: 9% 0 10% 5%;
+        margin: 9% auto;
     }
 
     .radio-wrapper {
