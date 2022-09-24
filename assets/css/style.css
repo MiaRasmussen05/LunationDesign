@@ -107,7 +107,7 @@ main {
 }
 
 .quote {
-    width: 50%;
+    width: 100%;
     position: absolute;
     top: 100px;
     font-family: "Cormorant SC", sans-serif;
@@ -115,7 +115,8 @@ main {
     font-weight: 600;
     color: #fff;
     text-align: center;
-    margin: 12% 0 0 24%;
+    margin: 12% 0 0 0;
+    transition: ease all 1s;
     z-index: 4;
 }
 
@@ -128,6 +129,7 @@ main {
     color: #fff;
     padding: 2%;
     margin: 18% 0 0 10%;
+    transition: ease all 1s;
     z-index: 4;
 }
 
@@ -561,7 +563,6 @@ textarea {
 
     .quote {
         font-size: 300%;
-        margin-left: 25%;
     }
 
     .line {
@@ -839,7 +840,6 @@ textarea {
     }
 
     .quote {
-        width: 100%;
         font-size: 240%;
         margin: 11% 0 0 0;
     }
