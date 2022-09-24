@@ -57,8 +57,11 @@
             <form action="thanks.html" method="get">
 
                 <div class="input-wrapper">
+                    <label for="fiName" class="hidden-label">First Name</label>
                     <input id="fiName" type="text" name="First_name" class="input" placeholder="First Name" required>
+                    <label for="laName" class="hidden-label">Last Name</label>
                     <input id="laName" type="text" name="Last_name" class="input" placeholder="Last Name" required>
+                    <label for="email" class="hidden-label">Email Address</label>
                     <input id="email" type="email" name="Email_address" class="input" placeholder="Email Address"
                         required>
                 </div>
@@ -72,7 +75,10 @@
                     <label for="other"> <input id="other" type="radio" name="choice" class="radio other"> Other</label>
                 </div>
 
-                <textarea placeholder="Write your message here..." maxlength="500" required></textarea>
+                
+                <label for="teArea" class="hidden-label">Text Area</label>
+                <textarea id="teArea" placeholder="Write your message here..." maxlength="500" required></textarea>
+                
                 <input type="submit" value="Send" class="btn">
 
             </form>

@@ -423,7 +423,10 @@ form {
 
 .input-wrapper {
     width: 100%;
-    margin-top: 2%;
+}
+
+.hidden-label {
+    visibility: hidden;
 }
 
 .input {
@@ -432,13 +435,17 @@ form {
     border: 1px solid #3B3B3B;
     border-radius: 3px;
     padding: 0 3%;
-    margin: 2%;
+    margin: 0 2%;
 }
 
 .radio-wrapper {
     width: 100%;
     text-align: center;
-    padding: 5% 0;
+    padding: 5% 0 0 0;
+}
+
+.radio-wrapper fieldset {
+    border: none;
 }
 
 .radio {
