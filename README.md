@@ -2,11 +2,11 @@
 
 # Lunation Design
 
-## Purpose Of The Project
-
-![Image of the responsive website on phone, iPad, laptop and screen from https://ui.dev/amiresponsive?](./READMEimages/Responsive.PNG) 
-
 Lunation Design is a full on responsive website that wants to spread the word of the creaters designs. Tell the visiters about the creater and about the stickers they make. The page is targeted towards anyone with a passion and love for stickers as well as puns. There for the website will be usefull for the creater to get their work out in the world while also letting the buyers get closer to the creater themself.
+
+![The Lunation Design website on multiple devices from https://ui.dev/amiresponsive?](./READMEimages/LunationDesignWebsite.png) 
+
+[The Lunation Design website on Github Pages](https://miarasmussen05.github.io/LunationDesign/)
 
 ![GitHub shield last commit](https://img.shields.io/github/last-commit/MiaRasmussen05/LunationDesign?color=red)
 ![GitHub shield language count](https://img.shields.io/github/languages/count/MiaRasmussen05/LunationDesign?color=orange)
