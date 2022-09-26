@@ -25,6 +25,14 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    ### Existing Features
 
+- __Favicon__
+  - The image used for the favicon on all pages is also the websites logo it creates an cohesion in the over all look of the website. The image is made into a favicon by using 
+  [Favicon.io](https://favicon.io/).
+
+  ![Favicon](./READMEimages/Favicon.PNG)
+![Small favicon](./favicon.ico)
+![Apple touch icon favicon](./READMEimages/appleTouchIcon.png)
+
 - __Navigation Bar__
 ![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./READMEimages/Navigation.PNG) 
 ![Image of navigation and header for phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact.](./READMEimages/Navigation_Phone.PNG)
