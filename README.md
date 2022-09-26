@@ -77,14 +77,14 @@ Lunation Design is a full on responsive website that wants to spread the word of
     ![The sticker page shown on multiple screen sizes from https://ui.dev/amiresponsive?](./READMEimages/StickerPageOnMultipleScreens.PNG)
 
 - __The Contact Page__
-![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./READMEimages/Contact_page.PNG) 
-![Image of the contact page on smaller screens. With the header at the top taht says "Contact Us" under it is the information box and then under that is the form.](./READMEimages/Contact_page_smallerScreens.PNG) 
-   - With this page the visiters will be able to contact the creater, with any inquiries they have.
-   - They can write a comment to the creater about if they want there own sticker made, changed one of the already existing stickers, just send a message, or something different. Therefor the visiter will be asked to submit there first and last name, email, and what it is about.
-   - There is also a information box about the different options of messeges there is for the visiters.
-   - The page is responsive for all sizes. The header is at the top, form and information box starts beside each other on bigger screens and then the form moves under the information box under smaller screens.
-   - All boxes and radio buttons are required to be filled for it to be send.
-   - The send button works, and send the visiter to the thank you page.
+    - With this page the visitors will be able to contact the creator, with any inquiries they have.
+    - They can write a comment to the creater about if they want there own sticker made, changed one of the already existing stickers, just send a message, or something different. Therefor the visitor will be asked to submit there first and last name, email, and what it is about.
+    - There is also a information box about the different options of messeges there is for the visiters.
+    - The page is responsive for all sizes. The header is at the top, form and information box starts beside each other on bigger screens and then the form moves under the information box under smaller screens.
+    - All boxes and radio buttons are required to be filled for it to be send.
+    - The send button works, and send the visitor to the thank you page if all that is requried has been answered.
+    ![The contact page for bigger screens](./READMEimages/ContactPageDesktop.PNG) 
+    ![The contact page for smaller screens](./READMEimages/ContactPageSmallerScreens.PNG) 
 
 - __Thank You Page__
 ![Image of the top of the thank you page. With a thank you message for the user in the center.](./READMEimages/Thank_you_page_top.PNG) 
