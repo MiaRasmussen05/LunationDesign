@@ -87,11 +87,12 @@ Lunation Design is a full on responsive website that wants to spread the word of
     ![The contact page for smaller screens](./READMEimages/ContactPageSmallerScreens.PNG) 
 
 - __Thank You Page__
-![Image of the top of the thank you page. With a thank you message for the user in the center.](./READMEimages/Thank_you_page_top.PNG) 
-![Image of the bottom of the thank you page. Two boxes one the left and right, and an image inbetween them of - A digital drawing of Lunation Design as a chibi design girl in a red shirt with black skirt and brown boots, long brown hair and big blue eyes, holding a huge yellow pensel. A box centered under the image as well](./READMEimages/Thank_you_page_bottom.PNG) 
-![Image of the bottom of the thank you page for smaller screens. An image of - A digital drawing of Lunation Design as a chibi design girl in a red shirt with black skirt and brown boots, long brown hair and big blue eyes, holding a huge yellow pensel. The three boxes centered under the image.](./READMEimages/Thank_you_page_bottom_smallerScreens.PNG) 
-   - The visiter will be send to this page after sending the form to the creater from the contact page. 
-   - It is to show the visiter that there message have been send, and will be answered.
+  - __Thank You Text__
+    - The visitor will be send to the thank you page after filling out the form on the contact page and clicking send. 
+    - It is to verify the visitor that their message have been send, and will be answered.
+
+    ![Image of the top of the thank you page. With a thank you message for the user in the center.](./READMEimages/TopOfThankYouPage.PNG) 
+
    - The thank you page also have information for the visiter about their messages. In case there is a backlock off messages and they haven't gotten a respond from the creater.
    - The page is to reasure the visiter about their messages.
    - it is responsive for all sizes. With a thank you message for the visiter at the top. And three boxes around an image of the digital drawing of the creator for bigger screens. For smaller screens the three boxes moves under the image and gets centered.
