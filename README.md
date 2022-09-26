@@ -304,15 +304,25 @@ Lunation Design is a full on responsive website that wants to spread the word of
 ## Deployment
 
    ### via gitpod
-   - Write in the terminal.
-   - git add .
-   - git commit -m ""
-   - In the commit you write a commit that will tell what you just did in the code.
-   - git push
-   - Now the saved code you just made have been pushed to your git hub repositori. 
+   - Log into Github.
+   - Make a repository
+   - Click the green button close to the top of the page that says Gitpod.
+   - After letting Gitpod load an alert pops up on the top of the screen, click cancel.
+   - Then click the button that says More Actions.
+   - Hereafter click Open in Browser.
+   - Now right click with your mouse over the big box on the left that has your repository name over it.
+   - Click new file.
+   - Then make an index.html file. 
+   - Go to the top of the index file and click ! and enter. This will make a start template.
+   - Make a basic structure for your index page.
+   - Click on terminal at the bottom of the page.
+   - write 'git add .'
+   - Then for your first commit write 'git commit -m "Initial commit".
+   - Herafter write 'git push'.
+   - Your code have now been pushed back and saved on your Github repository.
 
    ### via github pages
-   - Log in to Github.
+   - Log into Github.
    - Go to the repositories.
    - Then take this project LunationDesign.
    - Go to the settings link.
