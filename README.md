@@ -61,10 +61,12 @@ Lunation Design is a full on responsive website that wants to spread the word of
       ![Bottom of the home page - the about section on smaller screens](./READMEimages/BottomOfHomePageSmallerScreens.PNG)
 
 - __Footer__
-![Image of the footer with the three Font Awesome icons for the social links](./READMEimages/Footer.PNG) 
-   - It is featured on all three pages on the website just like the navigiation bar, the footer includes the links to the social media that is relevant for this website. All the links opens up on new tabs for the visiters, for easy navigation, and there for no using the "back" button.
+   - It is featured on all pages on the website just like the navigiation bar, the footer includes the links to the social media that is relevant for this website. All the links opens up on new tabs for the visiters, for easy navigation, and there for no using the "back" button.
    - The main color is #3B3B3B (Dead Pixel/dark grey), with the icons having the color of #FAC1AB (Yahoo/light skin color) and on hover the color of #426E50 (Fairway/green).
-   - It is important because the creater wants to reach out to more people, and through the social media links the creater can do that.
+   - It is important because the creator wants to reach out to more people, and the social media links makes that possible.
+   - On bigger screens the footer have the logo in the middle of the text logo, centered between the social links. Where on smaller screens the logo disapear to create more space.
+   ![Footer from desktop to 993px with logo centered](./READMEimages/FooterDesktop.PNG) 
+   ![Footer from 992px and down with no logo](./READMEimages/FooterSmallerScreens.PNG)
 
 - __The Stickers Page__
 ![Image of the top of the stickers page on bigger screens. The header that says "Stickers Library" in the center, with a box to the right that has some information for the visiter.](./READMEimages/The_head_of_stickers_page.PNG)
