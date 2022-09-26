@@ -333,7 +333,16 @@ Lunation Design is a full on responsive website that wants to spread the word of
 ## Credits
 
 ### Code Used
-- Tutor Assistance Sean for the JS on sticker note: Sticky header.
+- Tutor Assistance Sean for the JS on sticker note: The Sticky header.
 
 ### Content 
-- All images, logo, and text have been made and written by me.
+- All images, social media profiles, logo, and text have been made and written by me.
+
+### Honorable mentions
+- Tutor Assistance Sean for making the sticky header.
+- [Chris Williams/Chris_Williams_5P](https://github.com/Chr15w1986) for spending an hour trying to help me with the first problem with the buttons.
+- Tutor Assistance Rebecca for helping me to get where the buttons wasn't a problem and neither a validator error.
+- [Warwick Hart/Wozza_5P](https://github.com/BobWritesCode) for taking time out of his day to look over my website and give me his honest opinion and even find some spelling errors, after I put it on peer code review.
+- [Sean Finn](https://github.com/seanf316) for taking time out of his day and looking over the website looking for mistakes, after I put it on peer code review.
+- My mentor Rohit Sharma for keeping me on track and helping me understand and see the mistakes I had made.
+- [Bogdan/Bogdan_5P](https://github.com/Bogdan933) for taking his time to listen and go back and forth on my ideas for both header and footer.
