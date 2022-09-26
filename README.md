@@ -196,6 +196,34 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - [CSS validator for style.css file](./READMEimages/testing/validator/w3cCSS.PNG)
 
    - [JS validator for JS code on sticker page](./READMEimages/testing/validator/jsHint.PNG)
+
+   ### Lighthouse
+
+   On google when using dev tools there is a program that test the performance, accessibility, best practices and SEO from 1-100. Using this I check each page both for desktop and mobile use to get each number. 
+
+   - __The home page lighthouse testing - desktop ~ mobile__
+
+   ![The home page lighthouse testing for desktop](./READMEimages/testing/lighthouse/HomeDesktop.PNG)
+
+   ![The home page lighthouse testing for mobile](./READMEimages/testing/lighthouse/HomeMobile.PNG)
+
+   - __The Sticker page lighthouse testing - desktop ~ mobile__
+
+   ![The sticker page lighthouse testing for desktop](./READMEimages/testing/lighthouse/StickersDesktop.PNG)
+
+   ![The sticker page lighthouse testing for mobile](./READMEimages/testing/lighthouse/StickersMobile.PNG)
+
+   - __The Contact page lighthouse testing - desktop ~ mobile__
+
+   ![The contact page lighthouse testing for desktop](./READMEimages/testing/lighthouse/ContactDesktop.PNG)
+
+   ![The contact page lighthouse testing for mobile](./READMEimages/testing/lighthouse/ContactMobile.PNG)
+
+   - __The Thanks page lighthouse testing - desktop ~ mobile__
+
+   ![The thanks page lighthouse testing for desktop](./READMEimages/testing/lighthouse/ThanksDesktop.PNG)
+
+   ![The thanks page lighthouse testing for mobile](./READMEimages/testing/lighthouse/ThanksMobile.PNG)
    
    ### test cases (user story based with screenshots)
 
