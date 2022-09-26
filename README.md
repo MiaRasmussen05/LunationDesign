@@ -49,15 +49,16 @@ Lunation Design is a full on responsive website that wants to spread the word of
      ![Top of the home page](./READMEimages/TopOfHomePage.png)  
 
    - __About__
-   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./READMEimages/Second_half_of_Landing_page_biggerScreen.PNG) 
-   ![Image of second part of the landing page - the about section - for the smaller screen sizes](./READMEimages/Second_half_of_Landing_page_smallerScreen.PNG)
-      - The bottom of the Landing page includes the about section. In this the visiter on the site get to know a little about the creater behind the stickers.
-      - It has the header - About Us - in a box #FAC1AB (Yahoo/light skin color), with a #426E50 (Fairway/green) colored box behind it.
-      - It also have three boxes under it that gives the visiter a bit of information on the creater.
-         - Who they are and there passion for what they do.
-         - How Lunation Design first came to be.
-         - What Lunation Design can do for the visiter of the website.
-      - The boxes are responsive. On bigger screens the first two boxes are beside each other and the last one is under them and centered. While on smaller screens the three boxes is centered and under each other.
+     - The bottom of the Landing page includes the about section. In this the visiter on the site get to know a little about the creator behind the stickers.
+     - It has the header - About Us - in a box #FAC1AB (Yahoo/light skin color), with a #426E50 (Fairway/green) colored box behind it.
+     - It also have three boxes under it that gives the visiter a bit of information on the creator.
+        - Who they are and there passion for what they do.
+        - How Lunation Design first came to be.
+        - What Lunation Design can do for the visiter of the website.
+     - The boxes are responsive. On bigger screens the first two boxes are beside each other and the last one is under them and centered. While on smaller screens the three boxes is centered and under each other.
+     
+      ![Bottom of the home page - the about section](./READMEimages/BottomOfHomePage.png) 
+      ![Bottom of the home page - the about section on smaller screens](./READMEimages/BottomOfHomePageSmallerScreens.PNG)
 
 - __Footer__
 ![Image of the footer with the three Font Awesome icons for the social links](./READMEimages/Footer.PNG) 
