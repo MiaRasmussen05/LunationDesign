@@ -267,25 +267,39 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
       ### Supported screens and browers
 
-      #### Screens
-      - The website has responsive design with multiple media queries.
-      - Normal desktop
-      - 1280px wide and down
-      - 992px wide and down
-      - 748px wide and down
-      - 548px wide and down until 280px.
+      __Screens__
+        - The website has responsive design with multiple media queries.
+          - Normal desktop
+          - 1280px wide and down
+          - 992px wide and down
+          - 748px wide and down
+          - 548px wide and down until 280px.
          
-      #### Browers on computer and phone
-      - Google chrome: Works perfectly unless on apple products where button on sticker page dosen't work.
-      - Microsoft Edge: Works perfectly.
-      - Firefox: Backdrop filter isn't suppoerted but the website still looks great without it. The buttons on the sticker page also acts up here. However, they are moved to the side and not moved to the top as on apple products.
-      ![Image of not fixed button problem on sticker page](./READMEimages/Buttons_on_firefox.PNG)
-      - Safari: Works great other then the button on sticker page.
-      - Iphone 4: Works great other then the button on sticker page.
-      - Iphone 5 SE: Works great other then the button on sticker page.
-      - Iphone SE: Works great other then the button on sticker page.
-      - Samsung phone: Works perfectly.
-      - Huawei phone: Works perfectly.
+      __Browers on computer and phone__
+        - The website has been checked on multiple browers and phones.
+          - Google chrome
+          - Microsoft Edge
+          - Firefox: Backdrop filter isn't suppoerted but the website still works without it.
+          - Safari
+          - Iphone 4
+          - Iphone 5 SE
+          - Iphone SE
+          - Samsung phone
+          - Huawei phone
+
+      __Full testing__
+
+       - All these devices and browers has also tested if everything works.
+         - On each page every linked where it was supposed and worked they it should for internal links in the page. For all external links on all pages opened in a new tab to the page they where meant to go to.
+           
+       - The same went for the form. 
+           1. Trying to submit the form without touching anything inside. Making the form react and tell that the name input needs to be filled. 
+           2. Trying again to submit the form, it again reacted and pointed out that the last name input field had not been filled.
+           3. Again the form was submited and again it reacted towards the emty email address input field.
+           4. Clicking the send button again after filling out the three input section, but again then form showed that we also have to choose a radio button.
+           5. This now being selected the send button was clicked again, and just as it was supposed to it reacted and pointed out the text area was missing.
+           6. After everything had either been choosen or filled out, the send button was clicked again this time the form send me on to the thanks page.
+           7. This was tried in multiple different combinations and each time the form would react if not everything had been filled and if not one of the radio buttons had been choosen.  
 
 ## Deployment
 
