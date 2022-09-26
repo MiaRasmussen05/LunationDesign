@@ -93,12 +93,15 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
     ![The top of the thank you page](./READMEimages/TopOfThankYouPage.PNG) 
 
-   - The thank you page also have information for the visiter about their messages. In case there is a backlock off messages and they haven't gotten a respond from the creater.
-   - The page is to reasure the visiter about their messages.
-   - it is responsive for all sizes. With a thank you message for the visiter at the top. And three boxes around an image of the digital drawing of the creator for bigger screens. For smaller screens the three boxes moves under the image and gets centered.
+  - __Response__
+    - The thank you page also have information for the visit0r about their messages. In case there is a backlock off messages and they haven't gotten a respond from the creator.
+    - The page is to reasure the visiter about their messages even if they haven't gotten an respond.
+    - It is responsive for all sizes. With three boxes around an image of the digital drawing of a girl for bigger screens. For smaller screens the three boxes moves under the image and gets centered.
       - No Respond?
-      - 48-72 Hours.
-      - More Questions?
+      - 48 Hours.
+      - Any More Questions?
+
+     ![The bottom of the thank you page on multiple devices](./READMEimages/BottomOfThankYouPage.PNG) 
 
    ### Future Features
 
