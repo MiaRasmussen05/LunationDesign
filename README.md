@@ -91,7 +91,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
     - The visitor will be send to the thank you page after filling out the form on the contact page and clicking send. 
     - It is to verify the visitor that their message have been send, and will be answered.
 
-    ![Image of the top of the thank you page. With a thank you message for the user in the center.](./READMEimages/TopOfThankYouPage.PNG) 
+    ![The top of the thank you page](./READMEimages/TopOfThankYouPage.PNG) 
 
    - The thank you page also have information for the visiter about their messages. In case there is a backlock off messages and they haven't gotten a respond from the creater.
    - The page is to reasure the visiter about their messages.
