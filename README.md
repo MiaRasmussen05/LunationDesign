@@ -16,10 +16,10 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
 ## User Stories
 
-- As a visiting user, I can easily understand the main purpose of the website.
-- As a visiting user, I can navigate the website without any problems.
+- As a visiting user, I want to be able to navigate the website to find what I need.
 - As a visiting user, I will be able to learn about the product as well as the creater.
 - As a visiting user, I would like to contact the artist for business inquiries.
+- As a visiting user, I want to know that my business inquiries have been send to the creator.
 
 ## Features
 
