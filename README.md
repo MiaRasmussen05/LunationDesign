@@ -68,18 +68,13 @@ Lunation Design is a full on responsive website that wants to spread the word of
    ![Footer from desktop to 993px with logo centered](./READMEimages/FooterDesktop.PNG) 
    ![Footer from 992px and down with no logo](./READMEimages/FooterSmallerScreens.PNG)
 
-- __The Stickers Page__
-![Image of the top of the stickers page on bigger screens. The header that says "Stickers Library" in the center, with a box to the right that has some information for the visiter.](./READMEimages/The_head_of_stickers_page.PNG)
-![Image of the top of the stickers page on smaller screens. The header that says "Stickers Library" in the center, with a box under it that has some information for the visiter.](./READMEimages/The_head_of_stickers_page_smallerScreens.PNG)
-![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./READMEimages/Sticker_boxes_biggerScreens.PNG)
-![Image of the stickers boxes on the stickers page on medium screens. With two boxes beside each other, there can be seen the two top boxes from the stickers page - Excited Puppy and The Rosie Way.](./READMEimages/Sticker_boxes_mediumScreens.PNG)
-![Image of the stickers boxes on the stickers page on smaller screens. There can be seen the top one box from the stickers page - Excited Puppy.](./READMEimages/Sticker_boxes_smallerScreens.PNG)
-   - This page is important for the visiters, here they can read about each sticker when the creater post it.
-   - It is valuble for the vister because this is the actul selling point.
-   - It is easy to navigate and understand which sticker is which, making it more enjoyable for the visiter.
-   - With a button on the stickers that are ready to buy, that opens in a new tab to the store where the visiter can buy the sticker.
-   - Resonsive on all screens. Going from three beside each other on bigger screens, down to two, and then to one on smaller screens.
-   - A header and information box that well inform the visiter of the things they need to know on this page, at the top of the page.
+- __The Sticker Page__
+    - With this page the visitors, can read about each sticker when the creater post it.
+    - It is valuble for the vistor because this is the actul selling point.
+    - It is easy to navigate and understand which sticker is which, making it more enjoyable for the visiter.
+    - With a button on the stickers that are ready to buy, that opens in a new tab to their own store page where the visiter can buy the sticker, and coming soon buttons leading to the store in its whole for the stickers that aren't on the store yet.
+    - Resonsive on all screens. Going from three beside each other on bigger screens, down to two, and then to one on smaller screens.
+    ![The sticker page shown on multiple screen sizes from https://ui.dev/amiresponsive?](./READMEimages/StickerPageOnMultipleScreens.PNG)
 
 - __The Contact Page__
 ![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./READMEimages/Contact_page.PNG) 
