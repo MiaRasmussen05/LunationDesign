@@ -245,21 +245,25 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    - ### As a visiting user, I want to know that my business inquiries have been send to the creator.
      - As soon as the visitor have clicked the send button on the contact page they will be redirected to the thanks page. Here at the top of the page there is a thank you note to reasure the visitor that their message have been send and that the creator will respond as soon as possible. 
-     
+
        ![The top of the thank you page](./READMEimages/TopOfThankYouPage.PNG)
 
+   ### Fixed bugs
 
-   ### Bugs
-   - ![Image of not fixed button problem on sticker page apple products](./READMEimages/not_fixed_problem.jpg)
-      - On apple products the button on the bottom of the sticker boxes move to the same position at the top of the page, when in position absolute. This however, I couldn't find a solution to.
+   - On apple products the text on the sticker page moved to be up at the top from all the boxes because it was put in absolute position. This was fixed
+      by removing absolut postion for the text information and put display inline-grid for all the sticker boxes.
 
-      ![Image of not fixed button problem on sticker page on firefox](./READMEimages/Buttons_on_firefox.PNG)
-      - On the browser firefox the buttons from the sticker page move one step to the right and leave the page.
+      ![Text problem on sticker page on apple products](./READMEimages/bugs/fixedTextsOnAppleProducts.jpg)
 
-   ### fixed bugs
-   - ![Image of fixed text problem on sticker page](./READMEimages/fixed_text_problem.jpg)
-      - On apple products the text on the sticker page moved to be up at the top from all the boxes becouse it was put in absolute position. This was fixed
-      by removing absolut postion for the text information and put display inline-grid for all the whole sticker boxes. '
+   - On apple products the button on the bottom of the sticker boxes would move to the same position at the top of the page, when in position absolute. This was fixed by wrapping the botton around an a tag and styling it there after. 
+
+      ![Button problem on sticker page on apple products](./READMEimages/bugs/fixedButtonsOnAppleProducts.jpg)
+
+   - On the browser firefox the buttons from the sticker page would move one step to the right and the third button would leave the page. This was fixed by wrapping the botton around an a tag and styling it there after.
+
+      ![Button problem on sticker page on firefox browser](./READMEimages/bugs/buttonsProblemOnFirefoxBrowser.PNG)
+
+   - But by fixing the button problem and firefox problem by wrapping the button around an a tag it made a validation error instead. which was fixed by changing the button element out with a div to wrap around the a tag.
 
       ### Supported screens and browers
 
