@@ -145,19 +145,41 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    __Programs Used__
 
-   - Git - Git was used for using the Gitpod terminal to commit to Git and push to Github.
-   - Github - Github was used to store the project code and display the project in Github Pages. (https://github.com/)
-   - Balsamiq - Balsamiq app was used to create the wireframes.
-   - Comoressor - Compressor was used for compressing images to a smaller size. (https://compressor.io/)
-   - Imgur - Imgur was used to store the images used for the wireframes. (https://imgur.com/)
-   - Coolors - Coolors was used for creating a palent of the colors used. (https://coolors.co/)
-   - Am I Responsive? - Am I Responsive was used for having an image of the website on all sizes. (https://ui.dev/amiresponsive?)
-   - BIRME - Birme was used to changing the images from png/jpeg to webp. (https://www.birme.net/?no_resize=true&auto_height=true&image_format=webp&quality_webp=100&wm_size=100)
-   - Font Awesome - Font Awesome was used to add icons for the social links in the footer.
-   - Google Dev Tools- Google dev tools where used to test and troubleshoot the webpage as well as fix problems with responsive design and styling.
-   - Google Fonts - Google fonts where used to import every font used in the website.
+   - Git - Was used for version control, the Gitpod terminal to commit and push to Github.
+
+   - [Github](https://github.com/) - Was used to store the project code and display the project in Github Pages.
+
+   - Balsamiq - is an app that was used to create the wireframes.
+
+   - [Comoressor](https://compressor.io/) - Was used for compressing images to a smaller size.
+
+   - [Coolors](https://coolors.co/) - Was used for creating a pallet of the colors used.
+
+   - [Am I Responsive?](https://ui.dev/amiresponsive?) - Was used for having an image of the website on all sizes.
+   
+   - [BIRME](https://www.birme.net) - Was used to changing the images from png/jpeg to webp.
+
+   - [Font Awesome](https://fontawesome.com/) - Was used to add icons for the social links in the footer.
+
+   - Google Dev Tools- Where used to test and troubleshoot the webpage as well as fix problems with responsive design and styling.
+
+   - [Google Fonts](https://fonts.google.com/) - Where used to import every font used in the website.
+
+   - [Shields](https://shields.io/) - Was used to add different shields into the README. 
+
+   - [Favicon](https://favicon.io/) - Was used to take the logo and make it into a favicon.
 
 ## Testing
+
+  - __Troubleshooting & peer code review__
+
+    Testing have been going on thought out the building of this website. Using google dev tools to test and toubleshoot as I was going along with every step. Asking others to test out if it was easy to understand and follow the flow of the page.
+
+  When I brought it up on slack for peer code review I got a few things back:
+   - Wozza_5P pointed out to me that having the information box on sticker page wasn't the best user experince, that it seemed off having only 3 buttons and the rest having none.
+   - Wozza_5P also pointed out that my 'only more questions?' box on the thanks page was hard to understand, and instead would be better with 'any more questions?'.
+   - The same with the box for '48-72 hours', how it would be better to just choose one instead of having both of them on it.
+   - Sean Finn also had a look over and pointed out a flow mistake in bottom of the last card on the sticker page. On the smaller screens it would stand on top of the footer when you where at the bottom instead of having some margin.
 
    ### code validation
    - Validator.W3 was used to validate the HTML code on the whole website. (https://validator.w3.org/#validate_by_input)
