@@ -182,8 +182,20 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - Sean Finn also had a look over and pointed out a flow mistake in bottom of the last card on the sticker page. On the smaller screens it would stand on top of the footer when you where at the bottom instead of having some margin.
 
    ### code validation
-   - Validator.W3 was used to validate the HTML code on the whole website. (https://validator.w3.org/#validate_by_input)
-   ![Image of the validator site that says: Document checking completed. No errors or warnings to show.](./READMEimages/Valitator.W3.PNG)
+   
+   Validating the code on this project I used [W3C Nu Html Checker](https://validator.w3.org/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), and [JSHint](https://jshint.com/).
+
+   - [HTML validator for home page](./READMEimages/testing/validator/w3cIndex.PNG)
+
+   - [HTML validator for sticker page](./READMEimages/testing/validator/w3cStickers.PNG)
+
+   - [HTML validator for contact page](./READMEimages/testing/validator/w3cContact.PNG)
+
+   - [HTML validator for thanks page](./READMEimages/testing/validator/w3cThanks.PNG)
+
+   - [CSS validator for style.css file](./READMEimages/testing/validator/w3cCSS.PNG)
+
+   - [JS validator for JS code on sticker page](./READMEimages/testing/validator/jsHint.PNG)
    
    ### test cases (user story based with screenshots)
 
