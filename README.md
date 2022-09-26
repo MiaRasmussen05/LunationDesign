@@ -225,18 +225,28 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    ![The thanks page lighthouse testing for mobile](./READMEimages/testing/lighthouse/ThanksMobile.PNG)
    
-   ### test cases (user story based with screenshots)
+   ### Test cases
 
-   - ### As a visiting user, I can easily understand the main purpose of the website.
-   - ### As a visiting user, I can navigate the website without any problems.
-   ![Image of navigation and header for above phone size screens. #426E50 (Fairway/green) line at the top, #fff (white) line with Lunation Design in the center, and #FAC1AB (Yahoo/light skin color) at the bottom with the nav on it, Home, Stickers, Contact. In the left side there is a gold and dark grey logo of a moon almosthalf way full, and in the middle is a screen with a ruler, pensel, and paint brush in the middle.](./READMEimages/Navigation.PNG) 
+   - ### As a visiting user, I want to be able to navigate the website to find what I need.
+     - The header is at the top of the page on all pages, it is the same on all pages across. This is to secure that there is no surprises for the visitors as well as make it easy to navigate the site. The header on the sticker page is sticky when you scrool down to make it easier for visitor to move to another page without having to scroll all the way back up again.
+       ![Navigation bar from desktop to 749px with logo on the side](./READMEimages/HeaderDesktop.PNG) 
+       ![Navigation bar from 748px and down with logo in between the text logo](./READMEimages/HeaderSmallerScreens.PNG)
 
-   - ### As a visiting user, I will be able to learn about the product as well as the creater.
-   ![Image of second part of the landing page - the about section - for the bigger screen sizes](./READMEimages/Second_half_of_Landing_page_biggerScreen.PNG)
-   ![Image of the stickers boxes on the stickers page on bigger screens. With three boxes beside each other, there can be seen the three top boxes from the stickers page - Excited Puppy, The Rosie Way, and The Duckling.](./READMEimages/Sticker_boxes_biggerScreens.PNG)
+   - ### As a visiting user, I will be able to learn about the product as well as the creator.
+     - On the sticker page the visitor can read about each sticker inside their own card under the image. Each sticker have gotten its own story. On the bottom of the home page in the about section is where the visitor will be able to learn a little more about the creator themselves. 
+
+       ![The sticker page shown on multiple screen sizes from https://ui.dev/amiresponsive?](./READMEimages/StickerPageOnMultipleScreens.PNG)
+       ![Bottom of the home page - the about section](./READMEimages/BottomOfHomePage.png) 
 
    - ### As a visiting user, I would like to contact the artist for business inquiries.
-   ![Image of the contact page. With the header at the top taht says "Contact Us" under it is the form and information box.](./READMEimages/Contact_page.PNG) 
+     - The contact page have a form with three input sections where the visitor have to write their first name, last name, and email addresse. Then there is four radio buttons to choose from, for just the inquirie the visitor could have. And after the text area have been answered the message is ready to be send of to the creator by clicking the send button at the bottom of the form.
+
+       ![The contact page for bigger screens](./READMEimages/ContactPageDesktop.PNG)
+
+   - ### As a visiting user, I want to know that my business inquiries have been send to the creator.
+     - As soon as the visitor have clicked the send button on the contact page they will be redirected to the thanks page. Here at the top of the page there is a thank you note to reasure the visitor that their message have been send and that the creator will respond as soon as possible. 
+     
+       ![The top of the thank you page](./READMEimages/TopOfThankYouPage.PNG)
 
 
    ### Bugs
