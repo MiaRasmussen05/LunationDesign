@@ -116,43 +116,24 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - With a matching font for anything there is not a header is 'Nunito' and secondary of sans-serif.
 
 - __Color Scheme__
-   - The color scheme used for Lunation Design is using some welcoming and relxing colours but not to sharp, colors that match. Something that will catch the eyes of the visitor but not take away from the stickers that are using sharp bright colors. The color pallet is made by using [Coolors](https://coolors.co/).
+   - The color scheme used for Lunation Design is using some welcoming and relxing colours not to sharp, colors that match. Something that will catch the eyes of the visitor but not take away from the stickers that are using sharp bright colors. The color pallet is made by using [Coolors](https://coolors.co/).
    - For the colors of the site there will be used two main colors of #426E50 (Fairway/green) and #FAC1AB (Yahoo/light skin color), with the shades of #fff (white) and #000 (black), #3B3B3B (Dead Pixel/dark grey) and #FCECE4 (Vanilla Blush/very light skin color).
 
     ![Lunation Design color scheme, pallet made on https://coolors.co/](./READMEimages/colorScheme.png)
 
 ## Wireframes
 
-__The Top Of Landing Page Wireframe__
+[The Top Of Home Page - Image And Quote - Wireframe](./READMEimages/wireframes/1TopOfHomePage.png) 
 
-![The Landing Page Desktop Wireframe](https://imgur.com/AgylPXq.png) 
-![The Landing Page Ipad Wireframe](https://imgur.com/SXqDDj9.png)
-![The Landing Page Iphone Wireframe](https://imgur.com/QHgZm73.png)
+[The Bottom Of Home Page - About - Wireframe](./READMEimages/wireframes/2BottomOfHomePage.png)
 
-__The Bottom Of Landing About Page Wireframe__
+[The Sticker Page Wireframe](./READMEimages/wireframes/3StickersPage.png)
 
-![The Landing About Page Desktop Wireframe](https://imgur.com/kWvfZVN.png)
-![The Landing About Page Ipad Wireframe](https://imgur.com/zyjHrCS.png)
+[The Contact Page Wireframe](./READMEimages/wireframes/4ContactPage.png)
 
-__The Stickers Page Wireframe__
+[The Top Of Thanks Page - Thank You Text - Wireframe](./READMEimages/wireframes/5TopOfThanksPage.png)
 
-![The Stickers Page Desktop Wireframe](https://imgur.com/ocHiWtB.png)
-![The Stickers Page Ipad Wireframe](https://imgur.com/Juiqsi6.png)
-![The Stickers Page Iphone Wireframe](https://imgur.com/sXYMhjU.png)
-
-__The Contact Page Wireframe__
-
-![The Contact Page Desktop Wireframe](https://imgur.com/R2Zdpa3.png)
-![The Contact Page Ipad Wireframe](https://imgur.com/5A15jul.png)
-
-__The Top Of Thank You Page Wireframe__
-
-![The Top Of The Thank You Page Wireframe](https://imgur.com/PEKh5r1.png)
-
-__The Bottom Of Thank You Page Wireframe__
-
-![The Bottom Of The Thank You Page Wireframe](https://imgur.com/gxWFkKR.png)
-![The Bottom Of The Thank You Page Ipad Wireframe](https://imgur.com/P6izga7.png)
+[The Bottom Of Thanks Page - Response - Wireframe](./READMEimages/wireframes/6BottomOfThanksPage.png)
 
 ## Technology
 
