@@ -999,15 +999,18 @@ textarea {
     }
 
     .color-border {
-        width: 45%;
+        width: 48%;
         margin: 0 0 0 25%;
     }
 
     .second-logo {
-        width: 45%;
-        font-size: 90%;
-        line-height: 320%;
+        width: 48%;
+        font-size: 85%;
         margin-left: 10%;
+    }
+
+    .second-logo {
+        line-height: 290%;
     }
 
     .about-information h3 {
@@ -1030,7 +1033,12 @@ textarea {
 
     /* START OF FOOTER */
 
+    footer {
+        max-width: 100%;
+    }
+
     .social-links li {
+        max-width: 95%;
         margin: 0 12%;
     }
     
