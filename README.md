@@ -377,3 +377,4 @@ Lunation Design is a full on responsive website that wants to spread the word of
 - [Sean Finn](https://github.com/seanf316) for taking time out of his day and looking over the website looking for mistakes, after I put it on peer code review.
 - My mentor Rohit Sharma for keeping me on track and helping me understand and see the mistakes I had made.
 - [Bogdan/Bogdan_5P](https://github.com/Bogdan933) for taking his time to listen and go back and forth on my ideas for both header and footer.
+- [Kera Cudmore/Kera Cudmore_lead](https://github.com/kera-cudmore) for doing a 'Creating your first README webinar' it helped me so incredibly much.
