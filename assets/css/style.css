@@ -133,9 +133,28 @@ main {
     z-index: 4;
 }
 
+.arrow-down {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 70px;
+    color: #FAC1AB;
+    margin: 150px 30px 0 0;
+    transition: ease all 2s;
+    animation: follow 3s linear infinite;
+}
+
+@keyframes follow {
+    0%   {transform: translateY(0px); color: #FAC1AB;}
+
+    50%  {transform: translateY(20px); color:#426E50;}
+
+    100% {transform: translateY(0px); color: #FAC1AB;}
+}
+
 /* START OF THE SECOND SECTION ON THE HOME PAGE (ABOUT) */
 
-.about {
+#about {
     width: 100%;
     margin: -15% 0 0 0;
 }
@@ -578,6 +597,10 @@ textarea {
         margin-left: 16%;
     }
 
+    .arrow-down {
+        margin: 140px 20px 0 0;
+    }
+
     .color-border {
         width: 30%;
         margin-left: 30%;
@@ -658,7 +681,12 @@ textarea {
 
     /* START OF THE HOME PAGE */
 
-    .about {
+    .arrow-down {
+        font-size: 65px;
+        margin: 135px 18px 0 0;
+    }
+
+    #about {
         transition: ease all 2s;
     }
 
@@ -856,7 +884,12 @@ textarea {
         margin-left: 8%;
     }
 
-    .about {
+    .arrow-down {
+        font-size: 55px;
+        margin: 115px 15px 0 0;
+    }
+
+    #about {
         margin-top: 0%;
     }
 
@@ -958,6 +991,11 @@ textarea {
         width: 90%;
         font-size: 100%;
         margin-left: 4%;
+    }
+
+    .arrow-down {
+        font-size: 38px;
+        margin: 100px 2% 0 0;
     }
 
     .color-border {
