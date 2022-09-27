@@ -109,15 +109,15 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
 ## Typography and Color Scheme
 
-- __Typography__
+  ### Typography
    - The logo text as well as headers uses the font of 'Cormorant SC' with a secondary of sans-serif.
    - With a matching font for anything there is not a header is 'Nunito' and secondary of sans-serif.
 
-- __Color Scheme__
+  ### Color Scheme
    - The color scheme used for Lunation Design is using some welcoming and relaxing colours not to sharp, colors that match. Something that will catch the eyes of the visitor but not take away from the stickers that are using sharp bright colors. The color pallet is made by using [Coolors](https://coolors.co/).
    - For the colors of the site there will be used two main colors of #426E50 (Fairway/green) and #FAC1AB (Yahoo/light skin color), with the shades of #fff (white) and #000 (black), #3B3B3B (Dead Pixel/dark grey) and #FCECE4 (Vanilla Blush/very light skin color).
 
-    ![Lunation Design color scheme, pallet made on https://coolors.co/](./READMEimages/colorScheme.png)
+   ![Lunation Design color scheme, pallet made on https://coolors.co/](./READMEimages/colorScheme.png)
 
 ## Wireframes
 
@@ -135,13 +135,13 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
 ## Technology
 
-   __Technologies Used__
+   ### Technologies Used
 
    - HTML
    - CSS
    - JavaScript
 
-   __Programs Used__
+   ### Programs Used
 
    - Git - Was used for version control, the Gitpod terminal to commit and push to GitHub.
 
@@ -169,9 +169,9 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
 ## Testing
 
-  - __Troubleshooting & peer code review__
+  ### Troubleshooting & peer code review
 
-    Testing have been going on thought out the building of this website. Using google dev tools to test and troubleshoot as I was going along with every step. Asking others to test out if it was easy to understand and follow the flow of the page.
+  Testing have been going on thought out the building of this website. Using google dev tools to test and troubleshoot as I was going along with every step. Asking others to test out if it was easy to understand and follow the flow of the page.
 
   When I brought it up on slack for peer code review I got a few things back:
    - Wozza_5P pointed out to me that having the information box on sticker page wasn't the best user experience, that it seemed off having only 3 buttons and the rest having none.
@@ -179,7 +179,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - The same with the box for '48-72 hours', how it would be better to just choose one instead of having both of them on it.
    - Sean Finn also had a look over and pointed out a flow mistake in bottom of the last card on the sticker page. On the smaller screens it would stand on top of the footer when you where at the bottom instead of having some margin.
 
-   ### code validation
+   ### Code validation
    
    Validating the code on this project I used [W3C Nu Html Checker](https://validator.w3.org/), [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), and [JSHint](https://jshint.com/).
 
@@ -225,23 +225,23 @@ Lunation Design is a full on responsive website that wants to spread the word of
    
    ### Test cases
 
-   - ### As a visiting user, I want to be able to navigate the website to find what I need.
+   - __As a visiting user, I want to be able to navigate the website to find what I need__
      - The header is at the top of the page on all pages, it is the same on all pages across. This is to secure that there is no surprises for the visitors as well as make it easy to navigate the site. The header on the sticker page is sticky when you scroll down to make it easier for visitor to move to another page without having to scroll all the way back up again.
        ![Navigation bar from desktop to 749px with logo on the side](./READMEimages/HeaderDesktop.PNG) 
        ![Navigation bar from 748px and down with logo in between the text logo](./READMEimages/HeaderSmallerScreens.PNG)
 
-   - ### As a visiting user, I will be able to learn about the product as well as the creator.
+   - __As a visiting user, I will be able to learn about the product as well as the creator__
      - On the sticker page the visitor can read about each sticker inside their own card under the image. Each sticker have gotten its own story. On the bottom of the home page in the about section is where the visitor will be able to learn a little more about the creator themselves. 
 
        ![The sticker page shown on multiple screen sizes from https://ui.dev/amiresponsive?](./READMEimages/StickerPageOnMultipleScreens.PNG)
        ![Bottom of the home page - the about section](./READMEimages/BottomOfHomePage.png) 
 
-   - ### As a visiting user, I would like to contact the artist for business inquiries.
+   - __As a visiting user, I would like to contact the artist for business inquiries__
      - The contact page have a form with three input sections where the visitor have to write their first name, last name, and email addressee. Then there is four radio buttons to choose from, for just the inquiries the visitor could have. And after the text area have been answered the message is ready to be send of to the creator by clicking the send button at the bottom of the form.
 
        ![The contact page for bigger screens](./READMEimages/ContactPageDesktop.PNG)
 
-   - ### As a visiting user, I want to know that my business inquiries have been send to the creator.
+   - __As a visiting user, I want to know that my business inquiries have been send to the creator__
      - As soon as the visitor have clicked the send button on the contact page they will be redirected to the thanks page. Here at the top of the page there is a thank you note to reassure the visitor that their message have been send and that the creator will respond as soon as possible. 
 
        ![The top of the thank you page](./READMEimages/TopOfThankYouPage.PNG)
@@ -263,7 +263,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    - But by fixing the button problem and Firefox problem by wrapping the button around an a tag it made a validation error instead. which was fixed by changing the button element out with a div to wrap around the a tag.
 
-      ### Supported screens and browsers
+      ### Supported screens and browsers and full testing
 
       __Screens__
         - The website has responsive design with multiple media queries.
@@ -301,32 +301,32 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
 ## Deployment
 
-   ### via gitpod
-   - Log into GitHub.
-   - Make a repository
-   - Click the green button close to the top of the page that says Gitpod.
-   - After letting Gitpod load an alert pops up on the top of the screen, click cancel.
-   - Then click the button that says More Actions.
-   - Hereafter click Open in Browser.
-   - Now right click with your mouse over the big box on the left that has your repository name over it.
-   - Click new file.
-   - Then make an index.html file. 
-   - Go to the top of the index file and click ! and enter. This will make a start template.
-   - Make a basic structure for your index page.
-   - Click on terminal at the bottom of the page.
-   - write 'git add .'
-   - Then for your first commit write 'git commit -m "Initial commit".
-   - Hereafter write 'git push'.
-   - Your code have now been pushed back and saved on your GitHub repository.
+  - __via gitpod__
+    - Log into GitHub.
+    - Make a repository
+    - Click the green button close to the top of the page that says Gitpod.
+    - After letting Gitpod load an alert pops up on the top of the screen, click cancel.
+    - Then click the button that says More Actions.
+    - Hereafter click Open in Browser.
+    - Now right click with your mouse over the big box on the left that has your repository name over it.
+    - Click new file.
+    - Then make an index.html file. 
+    - Go to the top of the index file and click ! and enter. This will make a start template.
+    - Make a basic structure for your index page.
+    - Click on terminal at the bottom of the page.
+    - write 'git add .'
+    - Then for your first commit write 'git commit -m "Initial commit".
+    - Hereafter write 'git push'.
+    - Your code have now been pushed back and saved on your GitHub repository.
 
-   ### via GitHub pages
-   - Log into GitHub.
-   - Go to the repositories.
-   - Then take this project LunationDesign.
-   - Go to the settings link.
-   - Then click on the pages link that is found on the navigations bar on the left side.
-   - Check the source section on the page, and choose main instead of none.
-   - Then click Save. After a few minutes you can see your live GitHub pages site is now deployed and the URL shown at the top of the page.
+  - __via GitHub pages__
+    - Log into GitHub.
+    - Go to the repositories.
+    - Then take this project LunationDesign.
+    - Go to the settings link.
+    - Then click on the pages link that is found on the navigations bar on the left side.
+    - Check the source section on the page, and choose main instead of none.
+    - Then click Save. After a few minutes you can see your live GitHub pages site is now deployed and the URL shown at the top of the page.
 
 ## Credits
 
