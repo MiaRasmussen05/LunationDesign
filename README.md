@@ -1,5 +1,3 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
 # Lunation Design
 
 Lunation Design is a full on responsive website that wants to spread the word of the creators designs. Tell the visitors about the creator and about the stickers they make. The page is targeted towards anyone with a passion and love for stickers as well as puns. There for the website will be useful for the creator to get their work out in the world while also letting the buyers get closer to the creator themselves.
