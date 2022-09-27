@@ -2,11 +2,11 @@
 
 # Lunation Design
 
-Lunation Design is a full on responsive website that wants to spread the word of the creaters designs. Tell the visiters about the creater and about the stickers they make. The page is targeted towards anyone with a passion and love for stickers as well as puns. There for the website will be usefull for the creater to get their work out in the world while also letting the buyers get closer to the creater themself.
+Lunation Design is a full on responsive website that wants to spread the word of the creators designs. Tell the visitors about the creator and about the stickers they make. The page is targeted towards anyone with a passion and love for stickers as well as puns. There for the website will be useful for the creator to get their work out in the world while also letting the buyers get closer to the creator themselves.
 
 ![The Lunation Design website on multiple devices from https://ui.dev/amiresponsive?](./READMEimages/LunationDesignWebsite.png) 
 
-[The Lunation Design website on Github Pages](https://miarasmussen05.github.io/LunationDesign/)
+[The Lunation Design website on GitHub Pages](https://miarasmussen05.github.io/LunationDesign/)
 
 ![GitHub shield last commit](https://img.shields.io/github/last-commit/MiaRasmussen05/LunationDesign?color=red)
 ![GitHub shield language count](https://img.shields.io/github/languages/count/MiaRasmussen05/LunationDesign?color=orange)
@@ -17,7 +17,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
 ## User Stories
 
 - As a visiting user, I want to be able to navigate the website to find what I need.
-- As a visiting user, I will be able to learn about the product as well as the creater.
+- As a visiting user, I will be able to learn about the product as well as the creator.
 - As a visiting user, I would like to contact the artist for business inquiries.
 - As a visiting user, I want to know that my business inquiries have been send to the creator.
 
@@ -44,45 +44,45 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - __Image And Quote__
      - The first half of the landing page on all screens includes an image that goes across the top of the screen with a dark overlay and text in the middle, the slogan at the top and some text under it.  
      - The image as well as the text introduces the website of Lunation Design with its slogan and its purpose, it is the first thing the visitor see.
-     - The hero image have a transition that moves with the screen width. On desktop and bigger screen sizes the image is moved up under the header to fit the aesthetic of the page size more makign it look smaller. Where on smaller screens it moves back to its original height. The text as well as the about section moves accordingly with the image.
+     - The hero image have a transition that moves with the screen width. On desktop and bigger screen sizes the image is moved up under the header to fit the aesthetic of the page size more making it look smaller. Where on smaller screens it moves back to its original height. The text as well as the about section moves accordingly with the image.
 
      ![Top of the home page](./READMEimages/TopOfHomePage.png)  
 
    - __About__
-     - The bottom of the Landing page includes the about section. In this the visiter on the site get to know a little about the creator behind the stickers.
+     - The bottom of the Landing page includes the about section. In this the visitor on the site get to know a little about the creator behind the stickers.
      - It has the header - About Us - in a box #FAC1AB (Yahoo/light skin color), with a #426E50 (Fairway/green) colored box behind it.
-     - It also have three boxes under it that gives the visiter a bit of information on the creator.
+     - It also have three boxes under it that gives the visitor a bit of information on the creator.
         - Who they are and there passion for what they do.
         - How Lunation Design first came to be.
-        - What Lunation Design can do for the visiter of the website.
-     - The boxes are responsive. On bigger screens the first two boxes are beside each other and the last one is under them and centered. While on smaller screens the three boxes is centered and under each other.
+        - What Lunation Design can do for the visitor of the website.
+     - The boxes are responsive. On bigger screens the first two boxes are beside each other and the last one is under them and centred. While on smaller screens the three boxes is centred and under each other.
      
       ![Bottom of the home page - the about section](./READMEimages/BottomOfHomePage.png) 
       ![Bottom of the home page - the about section on smaller screens](./READMEimages/BottomOfHomePageSmallerScreens.PNG)
 
 - __Footer__
-   - It is featured on all pages on the website just like the navigiation bar, the footer includes the links to the social media that is relevant for this website. All the links opens up on new tabs for the visiters, for easy navigation, and there for no using the "back" button.
+   - It is featured on all pages on the website just like the navigation bar, the footer includes the links to the social media that is relevant for this website. All the links opens up on new tabs for the visitors, for easy navigation, and there for no using the "back" button.
    - The main color is #3B3B3B (Dead Pixel/dark grey), with the icons having the color of #FAC1AB (Yahoo/light skin color) and on hover the color of #426E50 (Fairway/green).
    - It is important because the creator wants to reach out to more people, and the social media links makes that possible.
-   - On bigger screens the footer have the logo in the middle of the text logo, centered between the social links. Where on smaller screens the logo disapear to create more space.
-   ![Footer from desktop to 993px with logo centered](./READMEimages/FooterDesktop.PNG) 
+   - On bigger screens the footer have the logo in the middle of the text logo, centred between the social links. Where on smaller screens the logo disappear to create more space.
+   ![Footer from desktop to 993px with logo centred](./READMEimages/FooterDesktop.PNG) 
    ![Footer from 992px and down with no logo](./READMEimages/FooterSmallerScreens.PNG)
 
 - __The Sticker Page__
-    - With this page the visitors, can read about each sticker when the creater post it.
-    - It is valuble for the vistor because this is the actul selling point.
-    - It is easy to navigate and understand which sticker is which, making it more enjoyable for the visiter.
-    - With a button on the stickers that are ready to buy, that opens in a new tab to their own store page where the visiter can buy the sticker, and coming soon buttons leading to the store in its whole for the stickers that aren't on the store yet.
-    - Resonsive on all screens. Going from three beside each other on bigger screens, down to two, and then to one on smaller screens.
+    - With this page the visitors, can read about each sticker when the creator post it.
+    - It is valuable for the visitor because this is the actual selling point.
+    - It is easy to navigate and understand which sticker is which, making it more enjoyable for the visitor.
+    - With a button on the stickers that are ready to buy, that opens in a new tab to their own store page where the visitor can buy the sticker, and coming soon buttons leading to the store in its whole for the stickers that aren't on the store yet.
+    - Responsive on all screens. Going from three beside each other on bigger screens, down to two, and then to one on smaller screens.
     ![The sticker page shown on multiple screen sizes from https://ui.dev/amiresponsive?](./READMEimages/StickerPageOnMultipleScreens.PNG)
 
 - __The Contact Page__
     - With this page the visitors will be able to contact the creator, with any inquiries they have.
-    - They can write a comment to the creater about if they want there own sticker made, changed one of the already existing stickers, just send a message, or something different. Therefor the visitor will be asked to submit there first and last name, email, and what it is about.
-    - There is also a information box about the different options of messeges there is for the visiters.
+    - They can write a comment to the creator about if they want there own sticker made, changed one of the already existing stickers, just send a message, or something different. Therefor the visitor will be asked to submit there first and last name, email, and what it is about.
+    - There is also a information box about the different options of messages there is for the visitors.
     - The page is responsive for all sizes. The header is at the top, form and information box starts beside each other on bigger screens and then the form moves under the information box under smaller screens.
     - All boxes and radio buttons are required to be filled for it to be send.
-    - The send button works, and send the visitor to the thank you page if all that is requried has been answered.
+    - The send button works, and send the visitor to the thank you page if all that is required has been answered.
     ![The contact page for bigger screens](./READMEimages/ContactPageDesktop.PNG) 
     ![The contact page for smaller screens](./READMEimages/ContactPageSmallerScreens.PNG) 
 
@@ -94,9 +94,9 @@ Lunation Design is a full on responsive website that wants to spread the word of
     ![The top of the thank you page](./READMEimages/TopOfThankYouPage.PNG) 
 
   - __Response__
-    - The thank you page also have information for the visit0r about their messages. In case there is a backlock off messages and they haven't gotten a respond from the creator.
-    - The page is to reasure the visiter about their messages even if they haven't gotten an respond.
-    - It is responsive for all sizes. With three boxes around an image of the digital drawing of a girl for bigger screens. For smaller screens the three boxes moves under the image and gets centered.
+    - The thank you page also have information for the visit0r about their messages. In case there is a back lock off messages and they haven't gotten a respond from the creator.
+    - The page is to reassure the visitor about their messages even if they haven't gotten an respond.
+    - It is responsive for all sizes. With three boxes around an image of the digital drawing of a girl for bigger screens. For smaller screens the three boxes moves under the image and gets centred.
       - No Respond?
       - 48 Hours.
       - Any More Questions?
@@ -105,9 +105,9 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    ### Future Features
 
-   - A future feature could be adding a FAQ page. That way the most asked question could be answered allready on the site instead of the creater having to respond back to multiple people with the same answer.
-   - Adding a 5 star rewiew of the stickers, or like button with a heart.
-   - Another future feature could be adding a log in for visiters that comes back that have favorite stickers they want to keep. So when logged in you have a library with your favorite stickers.
+   - A future feature could be adding a FAQ page. That way the most asked question could be answered already on the site instead of the creator having to respond back to multiple people with the same answer.
+   - Adding a 5 star review of the stickers, or like button with a heart.
+   - Another future feature could be adding a log in for visitors that comes back that have favourite stickers they want to keep. So when logged in you have a library with your favourite stickers.
 
 ## Typography and Color Scheme
 
@@ -116,7 +116,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - With a matching font for anything there is not a header is 'Nunito' and secondary of sans-serif.
 
 - __Color Scheme__
-   - The color scheme used for Lunation Design is using some welcoming and relxing colours not to sharp, colors that match. Something that will catch the eyes of the visitor but not take away from the stickers that are using sharp bright colors. The color pallet is made by using [Coolors](https://coolors.co/).
+   - The color scheme used for Lunation Design is using some welcoming and relaxing colours not to sharp, colors that match. Something that will catch the eyes of the visitor but not take away from the stickers that are using sharp bright colors. The color pallet is made by using [Coolors](https://coolors.co/).
    - For the colors of the site there will be used two main colors of #426E50 (Fairway/green) and #FAC1AB (Yahoo/light skin color), with the shades of #fff (white) and #000 (black), #3B3B3B (Dead Pixel/dark grey) and #FCECE4 (Vanilla Blush/very light skin color).
 
     ![Lunation Design color scheme, pallet made on https://coolors.co/](./READMEimages/colorScheme.png)
@@ -145,9 +145,9 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
    __Programs Used__
 
-   - Git - Was used for version control, the Gitpod terminal to commit and push to Github.
+   - Git - Was used for version control, the Gitpod terminal to commit and push to GitHub.
 
-   - [Github](https://github.com/) - Was used to store the project code and display the project in Github Pages.
+   - [GitHub](https://github.com/) - Was used to store the project code and display the project in GitHub Pages.
 
    - Balsamiq - is an app that was used to create the wireframes.
 
@@ -173,10 +173,10 @@ Lunation Design is a full on responsive website that wants to spread the word of
 
   - __Troubleshooting & peer code review__
 
-    Testing have been going on thought out the building of this website. Using google dev tools to test and toubleshoot as I was going along with every step. Asking others to test out if it was easy to understand and follow the flow of the page.
+    Testing have been going on thought out the building of this website. Using google dev tools to test and troubleshoot as I was going along with every step. Asking others to test out if it was easy to understand and follow the flow of the page.
 
   When I brought it up on slack for peer code review I got a few things back:
-   - Wozza_5P pointed out to me that having the information box on sticker page wasn't the best user experince, that it seemed off having only 3 buttons and the rest having none.
+   - Wozza_5P pointed out to me that having the information box on sticker page wasn't the best user experience, that it seemed off having only 3 buttons and the rest having none.
    - Wozza_5P also pointed out that my 'only more questions?' box on the thanks page was hard to understand, and instead would be better with 'any more questions?'.
    - The same with the box for '48-72 hours', how it would be better to just choose one instead of having both of them on it.
    - Sean Finn also had a look over and pointed out a flow mistake in bottom of the last card on the sticker page. On the smaller screens it would stand on top of the footer when you where at the bottom instead of having some margin.
@@ -228,7 +228,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
    ### Test cases
 
    - ### As a visiting user, I want to be able to navigate the website to find what I need.
-     - The header is at the top of the page on all pages, it is the same on all pages across. This is to secure that there is no surprises for the visitors as well as make it easy to navigate the site. The header on the sticker page is sticky when you scrool down to make it easier for visitor to move to another page without having to scroll all the way back up again.
+     - The header is at the top of the page on all pages, it is the same on all pages across. This is to secure that there is no surprises for the visitors as well as make it easy to navigate the site. The header on the sticker page is sticky when you scroll down to make it easier for visitor to move to another page without having to scroll all the way back up again.
        ![Navigation bar from desktop to 749px with logo on the side](./READMEimages/HeaderDesktop.PNG) 
        ![Navigation bar from 748px and down with logo in between the text logo](./READMEimages/HeaderSmallerScreens.PNG)
 
@@ -239,33 +239,33 @@ Lunation Design is a full on responsive website that wants to spread the word of
        ![Bottom of the home page - the about section](./READMEimages/BottomOfHomePage.png) 
 
    - ### As a visiting user, I would like to contact the artist for business inquiries.
-     - The contact page have a form with three input sections where the visitor have to write their first name, last name, and email addresse. Then there is four radio buttons to choose from, for just the inquirie the visitor could have. And after the text area have been answered the message is ready to be send of to the creator by clicking the send button at the bottom of the form.
+     - The contact page have a form with three input sections where the visitor have to write their first name, last name, and email addressee. Then there is four radio buttons to choose from, for just the inquiries the visitor could have. And after the text area have been answered the message is ready to be send of to the creator by clicking the send button at the bottom of the form.
 
        ![The contact page for bigger screens](./READMEimages/ContactPageDesktop.PNG)
 
    - ### As a visiting user, I want to know that my business inquiries have been send to the creator.
-     - As soon as the visitor have clicked the send button on the contact page they will be redirected to the thanks page. Here at the top of the page there is a thank you note to reasure the visitor that their message have been send and that the creator will respond as soon as possible. 
+     - As soon as the visitor have clicked the send button on the contact page they will be redirected to the thanks page. Here at the top of the page there is a thank you note to reassure the visitor that their message have been send and that the creator will respond as soon as possible. 
 
        ![The top of the thank you page](./READMEimages/TopOfThankYouPage.PNG)
 
    ### Fixed bugs
 
    - On apple products the text on the sticker page moved to be up at the top from all the boxes because it was put in absolute position. This was fixed
-      by removing absolut postion for the text information and put display inline-grid for all the sticker boxes.
+      by removing absolute position for the text information and put display inline-grid for all the sticker boxes.
 
       ![Text problem on sticker page on apple products](./READMEimages/bugs/fixedTextsOnAppleProducts.jpg)
 
-   - On apple products the button on the bottom of the sticker boxes would move to the same position at the top of the page, when in position absolute. This was fixed by wrapping the botton around an a tag and styling it there after. 
+   - On apple products the button on the bottom of the sticker boxes would move to the same position at the top of the page, when in position absolute. This was fixed by wrapping the button around an a tag and styling it there after. 
 
       ![Button problem on sticker page on apple products](./READMEimages/bugs/fixedButtonsOnAppleProducts.jpg)
 
-   - On the browser firefox the buttons from the sticker page would move one step to the right and the third button would leave the page. This was fixed by wrapping the botton around an a tag and styling it there after.
+   - On the browser Firefox the buttons from the sticker page would move one step to the right and the third button would leave the page. This was fixed by wrapping the button around an a tag and styling it there after.
 
-      ![Button problem on sticker page on firefox browser](./READMEimages/bugs/buttonsProblemOnFirefoxBrowser.PNG)
+      ![Button problem on sticker page on Firefox browser](./READMEimages/bugs/buttonsProblemOnFirefoxBrowser.PNG)
 
-   - But by fixing the button problem and firefox problem by wrapping the button around an a tag it made a validation error instead. which was fixed by changing the button element out with a div to wrap around the a tag.
+   - But by fixing the button problem and Firefox problem by wrapping the button around an a tag it made a validation error instead. which was fixed by changing the button element out with a div to wrap around the a tag.
 
-      ### Supported screens and browers
+      ### Supported screens and browsers
 
       __Screens__
         - The website has responsive design with multiple media queries.
@@ -275,36 +275,36 @@ Lunation Design is a full on responsive website that wants to spread the word of
           - 748px wide and down
           - 548px wide and down until 280px.
          
-      __Browers on computer and phone__
-        - The website has been checked on multiple browers and phones.
+      __Browsers on computer and phone__
+        - The website has been checked on multiple browsers and phones.
           - Google chrome
           - Microsoft Edge
-          - Firefox: Backdrop filter isn't suppoerted but the website still works without it.
+          - Firefox: Backdrop filter isn't supported but the website still works without it.
           - Safari
-          - Iphone 4
-          - Iphone 5 SE
-          - Iphone SE
+          - iPhone 4
+          - iPhone 5 SE
+          - iPhone SE
           - Samsung phone
           - Huawei phone
 
       __Full testing__
 
-       - All these devices and browers has also tested if everything works.
+       - All these devices and browsers has also tested if everything works.
          - On each page every linked where it was supposed and worked they it should for internal links in the page. For all external links on all pages opened in a new tab to the page they where meant to go to.
            
        - The same went for the form. 
            1. Trying to submit the form without touching anything inside. Making the form react and tell that the name input needs to be filled. 
            2. Trying again to submit the form, it again reacted and pointed out that the last name input field had not been filled.
-           3. Again the form was submited and again it reacted towards the emty email address input field.
+           3. Again the form was submitted and again it reacted towards the empty email address input field.
            4. Clicking the send button again after filling out the three input section, but again then form showed that we also have to choose a radio button.
            5. This now being selected the send button was clicked again, and just as it was supposed to it reacted and pointed out the text area was missing.
-           6. After everything had either been choosen or filled out, the send button was clicked again this time the form send me on to the thanks page.
-           7. This was tried in multiple different combinations and each time the form would react if not everything had been filled and if not one of the radio buttons had been choosen.  
+           6. After everything had either been chosen or filled out, the send button was clicked again this time the form send me on to the thanks page.
+           7. This was tried in multiple different combinations and each time the form would react if not everything had been filled and if not one of the radio buttons had been chosen.  
 
 ## Deployment
 
    ### via gitpod
-   - Log into Github.
+   - Log into GitHub.
    - Make a repository
    - Click the green button close to the top of the page that says Gitpod.
    - After letting Gitpod load an alert pops up on the top of the screen, click cancel.
@@ -318,17 +318,17 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - Click on terminal at the bottom of the page.
    - write 'git add .'
    - Then for your first commit write 'git commit -m "Initial commit".
-   - Herafter write 'git push'.
-   - Your code have now been pushed back and saved on your Github repository.
+   - Hereafter write 'git push'.
+   - Your code have now been pushed back and saved on your GitHub repository.
 
-   ### via github pages
-   - Log into Github.
+   ### via GitHub pages
+   - Log into GitHub.
    - Go to the repositories.
    - Then take this project LunationDesign.
    - Go to the settings link.
    - Then click on the pages link that is found on the navigations bar on the left side.
    - Check the source section on the page, and choose main instead of none.
-   - Then click Save. After a few minutes you can see your live Github pages site is now deployed and the URL shown at the top of the page.
+   - Then click Save. After a few minutes you can see your live GitHub pages site is now deployed and the URL shown at the top of the page.
 
 ## Credits
 
@@ -338,7 +338,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
 ### Content 
 - All images, social media profiles, logo, and text have been made and written by me.
 
-### Honorable mentions
+### Honourable mentions
 - Tutor Assistance Sean for making the sticky header.
 - [Chris Williams/Chris_Williams_5P](https://github.com/Chr15w1986) for spending an hour trying to help me with the first problem with the buttons.
 - Tutor Assistance Rebecca for helping me to get where the buttons wasn't a problem and neither a validator error.
