@@ -12,6 +12,39 @@ Lunation Design is a full on responsive website that wants to spread the word of
 ![W3C shield Validation](https://img.shields.io/w3c-validation/html?color=brightgreen&label=w3c&targetUrl=https%3A%2F%2Fmiarasmussen05.github.io%2FLunationDesign%2F)
 ![GitHub shield top language](https://img.shields.io/github/languages/top/MiaRasmussen05/LunationDesign?color=blueviolet&label=html)
 
+## Contents
+
+- [User Stories](#user-stories)
+
+- [Features](#features)
+  - [Existing Features](#existing-features)
+  - [Future Features](#future-features)
+
+- [Typography and Color Scheme](#typography-and-color-scheme)
+  - [Typography](#typography)
+  - [Color Scheme](#color-scheme)
+
+- [Wireframes](#wireframes)
+
+- [Technology](#technology)
+  - [Technologies Used](#technologies-used)
+  - [Programs Used](#programs-used)
+
+- [Testing](#testing)
+  - [Troubleshooting & peer code review](#troubleshooting--peer-code-review)
+  - [Code validation](#code-validation)
+  - [Lighthouse](#lighthouse)
+  - [Test cases](#test-cases)
+  - [Fixed bugs](#fixed-bugs)
+  - [Supported screens and browsers and full testing](#supported-screens-and-browsers-and-full-testing)
+
+- [Deployment](#deployment)
+
+- [Credits](#credits)
+  - [Code Used](#code-used)
+  - [Content](#content)
+  - [Honourable mentions](#honourable-mentions)
+
 ## User Stories
 
 - As a visiting user, I want to be able to navigate the website to find what I need.
