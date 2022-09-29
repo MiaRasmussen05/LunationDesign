@@ -314,8 +314,10 @@ Lunation Design is a full on responsive website that wants to spread the word of
           - Firefox: Backdrop filter isn't supported but the website still works without it.
           - Safari
           - iPhone 4
-          - iPhone 5 SE
+          - iPhone 5
           - iPhone SE
+          - iPhone 6
+          - iPhone 12 Pro
           - Samsung phone
           - Huawei phone
 
