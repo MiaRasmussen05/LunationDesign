@@ -76,6 +76,7 @@ Lunation Design is a full on responsive website that wants to spread the word of
      - The first half of the landing page on all screens includes an image that goes across the top of the screen with a dark overlay and text in the middle, the slogan at the top and some text under it.  
      - The image as well as the text introduces the website of Lunation Design with its slogan and its purpose, it is the first thing the visitor see.
      - The hero image have a transition that moves with the screen width. On desktop and bigger screen sizes the image is moved up under the header to fit the aesthetic of the page size more making it look smaller. Where on smaller screens it moves back to its original height. The text as well as the about section moves accordingly with the image.
+     - At the right top corner, there is an animated arrow icon that shows the visitor that there is something under the hero image. This arrow can also be clicked to jump directly to the about section. 
 
      ![Top of the home page](./READMEimages/TopOfHomePage.png)  
 
