@@ -384,3 +384,6 @@ Lunation Design is a full on responsive website that wants to spread the word of
 - My mentor Rohit Sharma for keeping me on track and helping me understand and see the mistakes I had made.
 - [Bogdan/Bogdan_5P](https://github.com/Bogdan933) for taking his time to listen and go back and forth on my ideas for both header and footer.
 - [Kera Cudmore/Kera Cudmore_lead](https://github.com/kera-cudmore) for doing a 'Creating your first README webinar' it helped me so incredibly much.
+- [Niclas Tanskanen/Niclas Tanskanen_5P](https://github.com/niclastanskanen) for taking a look at the website and pointing out that the footer icons on the home page jump off the screen on some phones.
+- [Monique Parnis/Monique](https://github.com/Aperlae) for also pointing out the problem with the footer icons on the home page as well as pointing out the width problem of the about section title on some phones.
+- Anthony Ducie for pointing out that some screens have a height where the about section might not be very visible and they might miss it if nothing indicates there is something under the hero image.
