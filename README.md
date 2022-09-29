@@ -212,6 +212,9 @@ Lunation Design is a full on responsive website that wants to spread the word of
    - Wozza_5P also pointed out that my 'only more questions?' box on the thanks page was hard to understand, and instead would be better with 'any more questions?'.
    - The same with the box for '48-72 hours', how it would be better to just choose one instead of having both of them on it.
    - Sean Finn also had a look over and pointed out a flow mistake in bottom of the last card on the sticker page. On the smaller screens it would stand on top of the footer when you where at the bottom instead of having some margin.
+   - Niclas Tanskanen_5P showed me that on an iPhone 12 Pro the home page footer icons are spaced out too much. That then creates white space on the right side and 2 social links are jumped off the screen on both sides.
+   - Monique showed me that on iPhone 6 the About Us title on the about section is slightly obstructed by the width of the container and that also on the home page the footer icons are spaced out too much. However, only on the footer of the home page.
+   - Anthony Ducie pointed out to me that on some laptop screen sizes that the about me section isn't obvious that it is there on the home page. So there should be something that indicates to scroll down or a link to get there.
 
    ### Code validation
    
