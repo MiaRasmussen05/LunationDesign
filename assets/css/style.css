@@ -279,7 +279,7 @@ footer {
 
 .social-links li {
     list-style: none;
-    padding: 0 15% 0 15%;
+    margin: 0 15%;
 }
 
 .social-links:first-child {
@@ -615,7 +615,7 @@ textarea {
 
     .social-links li {
         list-style: none;
-        padding: 0 10% 0 10%;
+        margin: 0 10%;
     }
 
     /* START OF THE STICKER PAGE */
@@ -732,6 +732,7 @@ textarea {
     }
 
     .copyright, .disclaimer {
+        padding: 0 5px;
         font-size: 60%;
     }
 
@@ -1033,13 +1034,8 @@ textarea {
 
     /* START OF FOOTER */
 
-    footer {
-        max-width: 100%;
-    }
-
     .social-links li {
-        max-width: 95%;
-        margin: 0 12%;
+        margin: 0 18%;
     }
     
     .social-links i {
